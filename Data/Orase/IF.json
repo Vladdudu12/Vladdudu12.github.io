@@ -1,0 +1,437 @@
+[
+    {
+        "nume": "1 Decembrie"
+    },
+    {
+        "nume": "Afumaţi",
+        "simplu": "Afumati"
+    },
+    {
+        "nume": "Baloteşti",
+        "simplu": "Balotesti"
+    },
+    {
+        "nume": "Berceni"
+    },
+    {
+        "nume": "Bragadiru"
+    },
+    {
+        "nume": "Brăneşti",
+        "simplu": "Branesti"
+    },
+    {
+        "nume": "Buftea"
+    },
+    {
+        "nume": "Cernica"
+    },
+    {
+        "nume": "Chiajna"
+    },
+    {
+        "nume": "Chitila"
+    },
+    {
+        "nume": "Ciolpani"
+    },
+    {
+        "nume": "Ciorogârla",
+        "simplu": "Ciorogarla"
+    },
+    {
+        "nume": "Clinceni"
+    },
+    {
+        "nume": "Corbeanca"
+    },
+    {
+        "nume": "Cornetu"
+    },
+    {
+        "nume": "Dascălu",
+        "simplu": "Dascalu"
+    },
+    {
+        "nume": "Domneşti",
+        "simplu": "Domnesti"
+    },
+    {
+        "nume": "Dragomireşti-Vale",
+        "simplu": "Dragomiresti-Vale"
+    },
+    {
+        "nume": "Dărăşti-Ilfov",
+        "simplu": "Darasti-Ilfov"
+    },
+    {
+        "nume": "Glina"
+    },
+    {
+        "nume": "Gruiu"
+    },
+    {
+        "nume": "Grădiştea",
+        "simplu": "Gradistea"
+    },
+    {
+        "nume": "Găneasa",
+        "simplu": "Ganeasa"
+    },
+    {
+        "nume": "Jilava"
+    },
+    {
+        "nume": "Moara Vlăsiei",
+        "simplu": "Moara Vlasiei"
+    },
+    {
+        "nume": "Mogoşoaia",
+        "simplu": "Mogosoaia"
+    },
+    {
+        "nume": "Măgurele",
+        "simplu": "Magurele"
+    },
+    {
+        "nume": "Nuci"
+    },
+    {
+        "nume": "Otopeni"
+    },
+    {
+        "nume": "Pantelimon"
+    },
+    {
+        "nume": "Periş",
+        "simplu": "Peris"
+    },
+    {
+        "nume": "Petrăchioaia",
+        "simplu": "Petrachioaia"
+    },
+    {
+        "nume": "Popeşti Leordeni",
+        "simplu": "Popesti Leordeni"
+    },
+    {
+        "nume": "Snagov"
+    },
+    {
+        "nume": "Tunari"
+    },
+    {
+        "nume": "Vidra"
+    },
+    {
+        "nume": "Voluntari"
+    },
+    {
+        "nume": "Ştefăneştii de Jos",
+        "simplu": "Stefanestii de Jos"
+    },
+    {
+        "nume": "Copăceni",
+        "simplu": "Copaceni",
+        "comuna": "1 Decembrie"
+    },
+    {
+        "nume": "Dumbrăveni",
+        "simplu": "Dumbraveni",
+        "comuna": "Balotesti"
+    },
+    {
+        "nume": "Săftica",
+        "simplu": "Saftica",
+        "comuna": "Balotesti"
+    },
+    {
+        "nume": "Islaz",
+        "comuna": "Branesti"
+    },
+    {
+        "nume": "Pasărea",
+        "simplu": "Pasarea",
+        "comuna": "Branesti"
+    },
+    {
+        "nume": "Vadu Anei",
+        "comuna": "Branesti"
+    },
+    {
+        "nume": "Buciumeni",
+        "comuna": "Buftea"
+    },
+    {
+        "nume": "Bălăceanca",
+        "simplu": "Balaceanca",
+        "comuna": "Cernica"
+    },
+    {
+        "nume": "Căldăraru",
+        "simplu": "Caldararu",
+        "comuna": "Cernica"
+    },
+    {
+        "nume": "Poşta",
+        "simplu": "Posta",
+        "comuna": "Cernica"
+    },
+    {
+        "nume": "Tânganu",
+        "simplu": "Tanganu",
+        "comuna": "Cernica"
+    },
+    {
+        "nume": "Dudu",
+        "comuna": "Chiajna"
+    },
+    {
+        "nume": "Roşu",
+        "simplu": "Rosu",
+        "comuna": "Chiajna"
+    },
+    {
+        "nume": "Rudeni",
+        "comuna": "Chitila"
+    },
+    {
+        "nume": "Izvorani",
+        "comuna": "Ciolpani"
+    },
+    {
+        "nume": "Lupăria",
+        "simplu": "Luparia",
+        "comuna": "Ciolpani"
+    },
+    {
+        "nume": "Piscu",
+        "comuna": "Ciolpani"
+    },
+    {
+        "nume": "Dârvari",
+        "simplu": "Darvari",
+        "comuna": "Ciorogarla"
+    },
+    {
+        "nume": "Olteni",
+        "comuna": "Clinceni"
+    },
+    {
+        "nume": "Ordoreanu",
+        "comuna": "Clinceni"
+    },
+    {
+        "nume": "Ostratu",
+        "comuna": "Corbeanca"
+    },
+    {
+        "nume": "Petreşti",
+        "simplu": "Petresti",
+        "comuna": "Corbeanca"
+    },
+    {
+        "nume": "Tamaşi",
+        "simplu": "Tamasi",
+        "comuna": "Corbeanca"
+    },
+    {
+        "nume": "Buda",
+        "comuna": "Cornetu"
+    },
+    {
+        "nume": "Creaţa",
+        "simplu": "Creata",
+        "comuna": "Dascalu"
+    },
+    {
+        "nume": "Gagu",
+        "comuna": "Dascalu"
+    },
+    {
+        "nume": "Runcu",
+        "comuna": "Dascalu"
+    },
+    {
+        "nume": "Dobroeşti",
+        "simplu": "Dobroesti",
+        "comuna": "Dobroiesti"
+    },
+    {
+        "nume": "Fundeni",
+        "comuna": "Dobroiesti"
+    },
+    {
+        "nume": "Ţegheş",
+        "simplu": "Teghes",
+        "comuna": "Domnesti"
+    },
+    {
+        "nume": "Dragomireşti-Deal",
+        "simplu": "Dragomiresti-Deal",
+        "comuna": "Dragomiresti-Vale"
+    },
+    {
+        "nume": "Zurbaua",
+        "comuna": "Dragomiresti-Vale"
+    },
+    {
+        "nume": "Cozieni",
+        "comuna": "Ganeasa"
+    },
+    {
+        "nume": "Moara Domnească",
+        "simplu": "Moara Domneasca",
+        "comuna": "Ganeasa"
+    },
+    {
+        "nume": "Piteasca",
+        "comuna": "Ganeasa"
+    },
+    {
+        "nume": "Şindriliţa",
+        "simplu": "Sindrilita",
+        "comuna": "Ganeasa"
+    },
+    {
+        "nume": "Căţelu",
+        "simplu": "Catelu",
+        "comuna": "Glina"
+    },
+    {
+        "nume": "Manolache",
+        "comuna": "Glina"
+    },
+    {
+        "nume": "Sitaru",
+        "comuna": "Gradistea"
+    },
+    {
+        "nume": "Lipia",
+        "comuna": "Gruiu"
+    },
+    {
+        "nume": "Siliştea Snagovului",
+        "simplu": "Silistea Snagovului",
+        "comuna": "Gruiu"
+    },
+    {
+        "nume": "Şanţu Floreşti",
+        "simplu": "Santu Floresti",
+        "comuna": "Gruiu"
+    },
+    {
+        "nume": "Alunişu",
+        "simplu": "Alunisu",
+        "comuna": "Magurele"
+    },
+    {
+        "nume": "Dumitrana",
+        "comuna": "Magurele"
+    },
+    {
+        "nume": "Pruni",
+        "comuna": "Magurele"
+    },
+    {
+        "nume": "Vârteju",
+        "simplu": "Varteju",
+        "comuna": "Magurele"
+    },
+    {
+        "nume": "Căciulaţi",
+        "simplu": "Caciulati",
+        "comuna": "Moara Vlasiei"
+    },
+    {
+        "nume": "Balta Neagră",
+        "simplu": "Balta Neagra",
+        "comuna": "Nuci"
+    },
+    {
+        "nume": "Merii Petchii",
+        "comuna": "Nuci"
+    },
+    {
+        "nume": "Micşuneştii Mari",
+        "simplu": "Micsunestii Mari",
+        "comuna": "Nuci"
+    },
+    {
+        "nume": "Micşuneştii-Moară",
+        "simplu": "Micsunestii-Moara",
+        "comuna": "Nuci"
+    },
+    {
+        "nume": "Odăile",
+        "simplu": "Odaile",
+        "comuna": "Otopeni"
+    },
+    {
+        "nume": "Buriaş",
+        "simplu": "Burias",
+        "comuna": "Peris"
+    },
+    {
+        "nume": "Bălteni",
+        "simplu": "Balteni",
+        "comuna": "Peris"
+    },
+    {
+        "nume": "Măineasca",
+        "simplu": "Maineasca",
+        "comuna": "Petrachioaia"
+    },
+    {
+        "nume": "Surlari",
+        "comuna": "Petrachioaia"
+    },
+    {
+        "nume": "Vânători",
+        "simplu": "Vanatori",
+        "comuna": "Petrachioaia"
+    },
+    {
+        "nume": "Cioflinceni",
+        "comuna": "Snagov"
+    },
+    {
+        "nume": "Ghermăneşti",
+        "simplu": "Ghermanesti",
+        "comuna": "Snagov"
+    },
+    {
+        "nume": "Tâncăbeşti",
+        "simplu": "Tancabesti",
+        "comuna": "Snagov"
+    },
+    {
+        "nume": "Vlădiceasca",
+        "simplu": "Vladiceasca",
+        "comuna": "Snagov"
+    },
+    {
+        "nume": "Creţuleasca",
+        "simplu": "Cretuleasca",
+        "comuna": "Stefanestii De Jos"
+    },
+    {
+        "nume": "Ştefăneştii de Sus",
+        "simplu": "Stefanestii de Sus",
+        "comuna": "Stefanestii De Jos"
+    },
+    {
+        "nume": "Dimieni",
+        "comuna": "Tunari"
+    },
+    {
+        "nume": "Creţeşti",
+        "simplu": "Cretesti",
+        "comuna": "Vidra"
+    },
+    {
+        "nume": "Sinteşti",
+        "simplu": "Sintesti",
+        "comuna": "Vidra"
+    }
+]

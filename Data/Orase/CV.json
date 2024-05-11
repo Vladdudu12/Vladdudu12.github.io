@@ -1,0 +1,554 @@
+[
+    {
+        "nume": "Aita Mare"
+    },
+    {
+        "nume": "Baraolt"
+    },
+    {
+        "nume": "Barcani"
+    },
+    {
+        "nume": "Belin"
+    },
+    {
+        "nume": "Bodoc"
+    },
+    {
+        "nume": "Boroşneu Mare",
+        "simplu": "Borosneu Mare"
+    },
+    {
+        "nume": "Brateş",
+        "simplu": "Brates"
+    },
+    {
+        "nume": "Breţcu",
+        "simplu": "Bretcu"
+    },
+    {
+        "nume": "Brăduţ",
+        "simplu": "Bradut"
+    },
+    {
+        "nume": "Catalina"
+    },
+    {
+        "nume": "Cernat"
+    },
+    {
+        "nume": "Chichiş",
+        "simplu": "Chichis"
+    },
+    {
+        "nume": "Comandău",
+        "simplu": "Comandau"
+    },
+    {
+        "nume": "Covasna"
+    },
+    {
+        "nume": "Dobârlău",
+        "simplu": "Dobarlau"
+    },
+    {
+        "nume": "Ghelinţa",
+        "simplu": "Ghelinta"
+    },
+    {
+        "nume": "Ghidfalău",
+        "simplu": "Ghidfalau"
+    },
+    {
+        "nume": "Hăghig",
+        "simplu": "Haghig"
+    },
+    {
+        "nume": "Ilieni"
+    },
+    {
+        "nume": "Lemnia"
+    },
+    {
+        "nume": "Malnaş",
+        "simplu": "Malnas"
+    },
+    {
+        "nume": "Moacşa",
+        "simplu": "Moacsa"
+    },
+    {
+        "nume": "Ojdula"
+    },
+    {
+        "nume": "Ozun"
+    },
+    {
+        "nume": "Poian"
+    },
+    {
+        "nume": "Reci"
+    },
+    {
+        "nume": "Sita Buzăului",
+        "simplu": "Sita Buzaului"
+    },
+    {
+        "nume": "Sânzieni",
+        "simplu": "Sanzieni"
+    },
+    {
+        "nume": "Turia"
+    },
+    {
+        "nume": "Valea Crişului",
+        "simplu": "Valea Crisului"
+    },
+    {
+        "nume": "Valea Mare"
+    },
+    {
+        "nume": "Vâlcele",
+        "simplu": "Valcele"
+    },
+    {
+        "nume": "Vârghiş",
+        "simplu": "Varghis"
+    },
+    {
+        "nume": "Zagon"
+    },
+    {
+        "nume": "Zăbala",
+        "simplu": "Zabala"
+    },
+    {
+        "nume": "Întorsura Buzăului",
+        "simplu": "Intorsura Buzaului"
+    },
+    {
+        "nume": "Aita Medie",
+        "comuna": "Aita Mare"
+    },
+    {
+        "nume": "Biborţeni",
+        "simplu": "Biborteni",
+        "comuna": "Baraolt"
+    },
+    {
+        "nume": "Bodoş",
+        "simplu": "Bodos",
+        "comuna": "Baraolt"
+    },
+    {
+        "nume": "Căpeni",
+        "simplu": "Capeni",
+        "comuna": "Baraolt"
+    },
+    {
+        "nume": "Micloşoara",
+        "simplu": "Miclosoara",
+        "comuna": "Baraolt"
+    },
+    {
+        "nume": "Racoşul de Sus",
+        "simplu": "Racosul de Sus",
+        "comuna": "Baraolt"
+    },
+    {
+        "nume": "Lădăuţi",
+        "simplu": "Ladauti",
+        "comuna": "Barcani"
+    },
+    {
+        "nume": "Sărămăş",
+        "simplu": "Saramas",
+        "comuna": "Barcani"
+    },
+    {
+        "nume": "Aita Seacă",
+        "simplu": "Aita Seaca",
+        "comuna": "Batani"
+    },
+    {
+        "nume": "Băţanii Mari",
+        "simplu": "Batanii Mari",
+        "comuna": "Batani"
+    },
+    {
+        "nume": "Băţanii Mici",
+        "simplu": "Batanii Mici",
+        "comuna": "Batani"
+    },
+    {
+        "nume": "Herculian",
+        "comuna": "Batani"
+    },
+    {
+        "nume": "Ozunca-Băi",
+        "simplu": "Ozunca-Bai",
+        "comuna": "Batani"
+    },
+    {
+        "nume": "Belin-Vale",
+        "comuna": "Belin"
+    },
+    {
+        "nume": "Olteni",
+        "comuna": "Bodoc"
+    },
+    {
+        "nume": "Zălan",
+        "simplu": "Zalan",
+        "comuna": "Bodoc"
+    },
+    {
+        "nume": "Boroşneu Mic",
+        "simplu": "Borosneu Mic",
+        "comuna": "Borosneu Mare"
+    },
+    {
+        "nume": "Dobolii de Sus",
+        "comuna": "Borosneu Mare"
+    },
+    {
+        "nume": "Leţ",
+        "simplu": "Let",
+        "comuna": "Borosneu Mare"
+    },
+    {
+        "nume": "Valea Mică",
+        "simplu": "Valea Mica",
+        "comuna": "Borosneu Mare"
+    },
+    {
+        "nume": "Ţufalău",
+        "simplu": "Tufalau",
+        "comuna": "Borosneu Mare"
+    },
+    {
+        "nume": "Doboşeni",
+        "simplu": "Doboseni",
+        "comuna": "Bradut"
+    },
+    {
+        "nume": "Filia",
+        "comuna": "Bradut"
+    },
+    {
+        "nume": "Tălişoara",
+        "simplu": "Talisoara",
+        "comuna": "Bradut"
+    },
+    {
+        "nume": "Pachia",
+        "comuna": "Brates"
+    },
+    {
+        "nume": "Telechia",
+        "comuna": "Brates"
+    },
+    {
+        "nume": "Mărtănuş",
+        "simplu": "Martanus",
+        "comuna": "Bretcu"
+    },
+    {
+        "nume": "Oituz",
+        "comuna": "Bretcu"
+    },
+    {
+        "nume": "Hătuica",
+        "simplu": "Hatuica",
+        "comuna": "Catalina"
+    },
+    {
+        "nume": "Imeni",
+        "comuna": "Catalina"
+    },
+    {
+        "nume": "Mărcuşa",
+        "simplu": "Marcusa",
+        "comuna": "Catalina"
+    },
+    {
+        "nume": "Mărtineni",
+        "simplu": "Martineni",
+        "comuna": "Catalina"
+    },
+    {
+        "nume": "Albiş",
+        "simplu": "Albis",
+        "comuna": "Cernat"
+    },
+    {
+        "nume": "Icafalău",
+        "simplu": "Icafalau",
+        "comuna": "Cernat"
+    },
+    {
+        "nume": "Băcel",
+        "simplu": "Bacel",
+        "comuna": "Chichis"
+    },
+    {
+        "nume": "Chiuruş",
+        "simplu": "Chiurus",
+        "comuna": "Covasna"
+    },
+    {
+        "nume": "Lunca Mărcuşului",
+        "simplu": "Lunca Marcusului",
+        "comuna": "Dobarlau"
+    },
+    {
+        "nume": "Mărcuş",
+        "simplu": "Marcus",
+        "comuna": "Dobarlau"
+    },
+    {
+        "nume": "Valea Dobârlăului",
+        "simplu": "Valea Dobarlaului",
+        "comuna": "Dobarlau"
+    },
+    {
+        "nume": "Harale",
+        "comuna": "Ghelinta"
+    },
+    {
+        "nume": "Angheluş",
+        "simplu": "Anghelus",
+        "comuna": "Ghidfalau"
+    },
+    {
+        "nume": "Fotoş",
+        "simplu": "Fotos",
+        "comuna": "Ghidfalau"
+    },
+    {
+        "nume": "Zoltan",
+        "comuna": "Ghidfalau"
+    },
+    {
+        "nume": "Iarăş",
+        "simplu": "Iaras",
+        "comuna": "Haghig"
+    },
+    {
+        "nume": "Dobolii de Jos",
+        "comuna": "Ilieni"
+    },
+    {
+        "nume": "Sâncraiu",
+        "simplu": "Sancraiu",
+        "comuna": "Ilieni"
+    },
+    {
+        "nume": "Brădet",
+        "simplu": "Bradet",
+        "comuna": "Intorsura Buzaului"
+    },
+    {
+        "nume": "Floroaia",
+        "comuna": "Intorsura Buzaului"
+    },
+    {
+        "nume": "Scrădoasa",
+        "simplu": "Scradoasa",
+        "comuna": "Intorsura Buzaului"
+    },
+    {
+        "nume": "Lutoasa",
+        "comuna": "Lemnia"
+    },
+    {
+        "nume": "Mereni",
+        "comuna": "Lemnia"
+    },
+    {
+        "nume": "Bixad",
+        "comuna": "Malnas"
+    },
+    {
+        "nume": "Malnaş-Băi",
+        "simplu": "Malnas-Bai",
+        "comuna": "Malnas"
+    },
+    {
+        "nume": "Micfalău",
+        "simplu": "Micfalau",
+        "comuna": "Malnas"
+    },
+    {
+        "nume": "Valea Zălanului",
+        "simplu": "Valea Zalanului",
+        "comuna": "Malnas"
+    },
+    {
+        "nume": "Dalnic",
+        "comuna": "Moacsa"
+    },
+    {
+        "nume": "Pădureni",
+        "simplu": "Padureni",
+        "comuna": "Moacsa"
+    },
+    {
+        "nume": "Hilib",
+        "comuna": "Ojdula"
+    },
+    {
+        "nume": "Bicfalău",
+        "simplu": "Bicfalau",
+        "comuna": "Ozun"
+    },
+    {
+        "nume": "Lisnău",
+        "simplu": "Lisnau",
+        "comuna": "Ozun"
+    },
+    {
+        "nume": "Lisnău-Vale",
+        "simplu": "Lisnau-Vale",
+        "comuna": "Ozun"
+    },
+    {
+        "nume": "Lunca Ozunului",
+        "comuna": "Ozun"
+    },
+    {
+        "nume": "Măgheruş",
+        "simplu": "Magherus",
+        "comuna": "Ozun"
+    },
+    {
+        "nume": "Sântionlunca",
+        "simplu": "Santionlunca",
+        "comuna": "Ozun"
+    },
+    {
+        "nume": "Belani",
+        "comuna": "Poian"
+    },
+    {
+        "nume": "Cărpinenii",
+        "simplu": "Carpinenii",
+        "comuna": "Poian"
+    },
+    {
+        "nume": "Estelnic",
+        "comuna": "Poian"
+    },
+    {
+        "nume": "Valea Scurtă",
+        "simplu": "Valea Scurta",
+        "comuna": "Poian"
+    },
+    {
+        "nume": "Aninoasa",
+        "comuna": "Reci"
+    },
+    {
+        "nume": "Bita",
+        "comuna": "Reci"
+    },
+    {
+        "nume": "Saciova",
+        "comuna": "Reci"
+    },
+    {
+        "nume": "Caşinu Mic",
+        "simplu": "Casinu Mic",
+        "comuna": "Sanzieni"
+    },
+    {
+        "nume": "Petriceni",
+        "comuna": "Sanzieni"
+    },
+    {
+        "nume": "Valea Seacă",
+        "simplu": "Valea Seaca",
+        "comuna": "Sanzieni"
+    },
+    {
+        "nume": "Chilieni",
+        "comuna": "Sfantul Gheorghe"
+    },
+    {
+        "nume": "Coşeni",
+        "simplu": "Coseni",
+        "comuna": "Sfantul Gheorghe"
+    },
+    {
+        "nume": "Sfântu  Gheorghe",
+        "simplu": "Sfantu  Gheorghe",
+        "comuna": "Sfantul Gheorghe"
+    },
+    {
+        "nume": "Crasna",
+        "comuna": "Sita Buzaului"
+    },
+    {
+        "nume": "Merişor",
+        "simplu": "Merisor",
+        "comuna": "Sita Buzaului"
+    },
+    {
+        "nume": "Zăbrătău",
+        "simplu": "Zabratau",
+        "comuna": "Sita Buzaului"
+    },
+    {
+        "nume": "Lunga",
+        "comuna": "Tirgu Secuiesc"
+    },
+    {
+        "nume": "Târgu Secuiesc",
+        "simplu": "Targu Secuiesc",
+        "comuna": "Tirgu Secuiesc"
+    },
+    {
+        "nume": "Alungeni",
+        "comuna": "Turia"
+    },
+    {
+        "nume": "Araci",
+        "comuna": "Valcele"
+    },
+    {
+        "nume": "Ariuşd",
+        "simplu": "Ariusd",
+        "comuna": "Valcele"
+    },
+    {
+        "nume": "Hetea",
+        "comuna": "Valcele"
+    },
+    {
+        "nume": "Arcuş",
+        "simplu": "Arcus",
+        "comuna": "Valea Crisului"
+    },
+    {
+        "nume": "Calnic",
+        "comuna": "Valea Crisului"
+    },
+    {
+        "nume": "Peteni",
+        "comuna": "Zabala"
+    },
+    {
+        "nume": "Surcea",
+        "comuna": "Zabala"
+    },
+    {
+        "nume": "Tamaşfalău",
+        "simplu": "Tamasfalau",
+        "comuna": "Zabala"
+    },
+    {
+        "nume": "Păpăuţi",
+        "simplu": "Papauti",
+        "comuna": "Zagon"
+    }
+]

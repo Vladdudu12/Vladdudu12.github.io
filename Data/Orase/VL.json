@@ -1,0 +1,2751 @@
+[
+    {
+        "nume": "Alunu"
+    },
+    {
+        "nume": "Amărăşti",
+        "simplu": "Amarasti"
+    },
+    {
+        "nume": "Berbeşti",
+        "simplu": "Berbesti"
+    },
+    {
+        "nume": "Berislăveşti",
+        "simplu": "Berislavesti"
+    },
+    {
+        "nume": "Boişoara",
+        "simplu": "Boisoara"
+    },
+    {
+        "nume": "Brezoi"
+    },
+    {
+        "nume": "Budeşti",
+        "simplu": "Budesti"
+    },
+    {
+        "nume": "Bujoreni"
+    },
+    {
+        "nume": "Buneşti",
+        "simplu": "Bunesti"
+    },
+    {
+        "nume": "Băbeni",
+        "simplu": "Babeni"
+    },
+    {
+        "nume": "Bălceşti",
+        "simplu": "Balcesti"
+    },
+    {
+        "nume": "Bărbăteşti",
+        "simplu": "Barbatesti"
+    },
+    {
+        "nume": "Cernişoara",
+        "simplu": "Cernisoara"
+    },
+    {
+        "nume": "Copăceni",
+        "simplu": "Copaceni"
+    },
+    {
+        "nume": "Costeşti",
+        "simplu": "Costesti"
+    },
+    {
+        "nume": "Creţeni",
+        "simplu": "Creteni"
+    },
+    {
+        "nume": "Călimăneşti",
+        "simplu": "Calimanesti"
+    },
+    {
+        "nume": "Drăgoeşti",
+        "simplu": "Dragoesti"
+    },
+    {
+        "nume": "Drăgăşani",
+        "simplu": "Dragasani"
+    },
+    {
+        "nume": "Dăeşti",
+        "simplu": "Daesti"
+    },
+    {
+        "nume": "Frânceşti",
+        "simplu": "Francesti"
+    },
+    {
+        "nume": "Fârtăţeşti",
+        "simplu": "Fartatesti"
+    },
+    {
+        "nume": "Făureşti",
+        "simplu": "Fauresti"
+    },
+    {
+        "nume": "Galicea"
+    },
+    {
+        "nume": "Ghioroiu"
+    },
+    {
+        "nume": "Glăvile",
+        "simplu": "Glavile"
+    },
+    {
+        "nume": "Grădiştea",
+        "simplu": "Gradistea"
+    },
+    {
+        "nume": "Guşoeni",
+        "simplu": "Gusoeni"
+    },
+    {
+        "nume": "Horezu"
+    },
+    {
+        "nume": "Ioneşti",
+        "simplu": "Ionesti"
+    },
+    {
+        "nume": "Laloşu",
+        "simplu": "Lalosu"
+    },
+    {
+        "nume": "Livezi"
+    },
+    {
+        "nume": "Lungeşti",
+        "simplu": "Lungesti"
+    },
+    {
+        "nume": "Lădeşti",
+        "simplu": "Ladesti"
+    },
+    {
+        "nume": "Malaia"
+    },
+    {
+        "nume": "Mateeşti",
+        "simplu": "Mateesti"
+    },
+    {
+        "nume": "Mihăeşti",
+        "simplu": "Mihaesti"
+    },
+    {
+        "nume": "Milcoiu"
+    },
+    {
+        "nume": "Muereasca"
+    },
+    {
+        "nume": "Mădulari",
+        "simplu": "Madulari"
+    },
+    {
+        "nume": "Măldăreşti",
+        "simplu": "Maldaresti"
+    },
+    {
+        "nume": "Olanu"
+    },
+    {
+        "nume": "Orleşti",
+        "simplu": "Orlesti"
+    },
+    {
+        "nume": "Oteşani",
+        "simplu": "Otesani"
+    },
+    {
+        "nume": "Perişani",
+        "simplu": "Perisani"
+    },
+    {
+        "nume": "Pesceana"
+    },
+    {
+        "nume": "Pietrari"
+    },
+    {
+        "nume": "Popeşti",
+        "simplu": "Popesti"
+    },
+    {
+        "nume": "Prundeni"
+    },
+    {
+        "nume": "Păuşeşti",
+        "simplu": "Pausesti"
+    },
+    {
+        "nume": "Păuşeşti-Măglaşi",
+        "simplu": "Pausesti-Maglasi"
+    },
+    {
+        "nume": "Racoviţa",
+        "simplu": "Racovita"
+    },
+    {
+        "nume": "Roeşti",
+        "simplu": "Roesti"
+    },
+    {
+        "nume": "Roşiile",
+        "simplu": "Rosiile"
+    },
+    {
+        "nume": "Runcu"
+    },
+    {
+        "nume": "Râmnicu Vâlcea",
+        "simplu": "Ramnicu Valcea"
+    },
+    {
+        "nume": "Scundu"
+    },
+    {
+        "nume": "Sineşti",
+        "simplu": "Sinesti"
+    },
+    {
+        "nume": "Slătioara",
+        "simplu": "Slatioara"
+    },
+    {
+        "nume": "Stoeneşti",
+        "simplu": "Stoenesti"
+    },
+    {
+        "nume": "Stoileşti",
+        "simplu": "Stoilesti"
+    },
+    {
+        "nume": "Stroeşti",
+        "simplu": "Stroesti"
+    },
+    {
+        "nume": "Stăneşti",
+        "simplu": "Stanesti"
+    },
+    {
+        "nume": "Suteşti",
+        "simplu": "Sutesti"
+    },
+    {
+        "nume": "Sălătrucel",
+        "simplu": "Salatrucel"
+    },
+    {
+        "nume": "Tetoiu"
+    },
+    {
+        "nume": "Titeşti",
+        "simplu": "Titesti"
+    },
+    {
+        "nume": "Tomşani",
+        "simplu": "Tomsani"
+    },
+    {
+        "nume": "Vaideeni"
+    },
+    {
+        "nume": "Valea Mare"
+    },
+    {
+        "nume": "Vlădeşti",
+        "simplu": "Vladesti"
+    },
+    {
+        "nume": "Voiceşti",
+        "simplu": "Voicesti"
+    },
+    {
+        "nume": "Voineasa"
+    },
+    {
+        "nume": "Zătreni",
+        "simplu": "Zatreni"
+    },
+    {
+        "nume": "Şirineasa",
+        "simplu": "Sirineasa"
+    },
+    {
+        "nume": "Ştefăneşti",
+        "simplu": "Stefanesti"
+    },
+    {
+        "nume": "Şuşani",
+        "simplu": "Susani"
+    },
+    {
+        "nume": "Bodeşti",
+        "simplu": "Bodesti",
+        "comuna": "Alunu"
+    },
+    {
+        "nume": "Colteşti",
+        "simplu": "Coltesti",
+        "comuna": "Alunu"
+    },
+    {
+        "nume": "Igoiu",
+        "comuna": "Alunu"
+    },
+    {
+        "nume": "Ilaciu",
+        "comuna": "Alunu"
+    },
+    {
+        "nume": "Ocracu",
+        "comuna": "Alunu"
+    },
+    {
+        "nume": "Roşia",
+        "simplu": "Rosia",
+        "comuna": "Alunu"
+    },
+    {
+        "nume": "Mereşeşti",
+        "simplu": "Meresesti",
+        "comuna": "Amarasti"
+    },
+    {
+        "nume": "Nemoiu",
+        "comuna": "Amarasti"
+    },
+    {
+        "nume": "Padina",
+        "comuna": "Amarasti"
+    },
+    {
+        "nume": "Palanga",
+        "comuna": "Amarasti"
+    },
+    {
+        "nume": "Teiul",
+        "comuna": "Amarasti"
+    },
+    {
+        "nume": "Bonciu",
+        "comuna": "Babeni"
+    },
+    {
+        "nume": "Capu Dealului",
+        "comuna": "Babeni"
+    },
+    {
+        "nume": "Pădureţu",
+        "simplu": "Paduretu",
+        "comuna": "Babeni"
+    },
+    {
+        "nume": "Români",
+        "simplu": "Romani",
+        "comuna": "Babeni"
+    },
+    {
+        "nume": "Tătărani",
+        "simplu": "Tatarani",
+        "comuna": "Babeni"
+    },
+    {
+        "nume": "Valea Mare",
+        "comuna": "Babeni"
+    },
+    {
+        "nume": "Curăturile",
+        "simplu": "Curaturile",
+        "comuna": "Baile Govora"
+    },
+    {
+        "nume": "Gătejeşti",
+        "simplu": "Gatejesti",
+        "comuna": "Baile Govora"
+    },
+    {
+        "nume": "Prajila",
+        "comuna": "Baile Govora"
+    },
+    {
+        "nume": "Cheia",
+        "comuna": "Baile Olanesti"
+    },
+    {
+        "nume": "Comanca",
+        "comuna": "Baile Olanesti"
+    },
+    {
+        "nume": "Gurguiata",
+        "comuna": "Baile Olanesti"
+    },
+    {
+        "nume": "Livadia",
+        "comuna": "Baile Olanesti"
+    },
+    {
+        "nume": "Moşoroaşa",
+        "simplu": "Mosoroasa",
+        "comuna": "Baile Olanesti"
+    },
+    {
+        "nume": "Olăneşti",
+        "simplu": "Olanesti",
+        "comuna": "Baile Olanesti"
+    },
+    {
+        "nume": "Pietrişu",
+        "simplu": "Pietrisu",
+        "comuna": "Baile Olanesti"
+    },
+    {
+        "nume": "Tisa",
+        "comuna": "Baile Olanesti"
+    },
+    {
+        "nume": "Beneşti",
+        "simplu": "Benesti",
+        "comuna": "Balcesti"
+    },
+    {
+        "nume": "Chirculeşti",
+        "simplu": "Chirculesti",
+        "comuna": "Balcesti"
+    },
+    {
+        "nume": "Cârlogani",
+        "simplu": "Carlogani",
+        "comuna": "Balcesti"
+    },
+    {
+        "nume": "Goruneşti",
+        "simplu": "Gorunesti",
+        "comuna": "Balcesti"
+    },
+    {
+        "nume": "Irimeşti",
+        "simplu": "Irimesti",
+        "comuna": "Balcesti"
+    },
+    {
+        "nume": "Otetelişu",
+        "simplu": "Otetelisu",
+        "comuna": "Balcesti"
+    },
+    {
+        "nume": "Preoteşti",
+        "simplu": "Preotesti",
+        "comuna": "Balcesti"
+    },
+    {
+        "nume": "Satu Poieni",
+        "comuna": "Balcesti"
+    },
+    {
+        "nume": "Bodeşti",
+        "simplu": "Bodesti",
+        "comuna": "Barbatesti"
+    },
+    {
+        "nume": "Bârzeşti",
+        "simplu": "Barzesti",
+        "comuna": "Barbatesti"
+    },
+    {
+        "nume": "Negruleşti",
+        "simplu": "Negrulesti",
+        "comuna": "Barbatesti"
+    },
+    {
+        "nume": "Dealu Aluniş",
+        "simplu": "Dealu Alunis",
+        "comuna": "Berbesti"
+    },
+    {
+        "nume": "Dămţeni",
+        "simplu": "Damteni",
+        "comuna": "Berbesti"
+    },
+    {
+        "nume": "Roşioara",
+        "simplu": "Rosioara",
+        "comuna": "Berbesti"
+    },
+    {
+        "nume": "Târgu Gânguleşti",
+        "simplu": "Targu Gangulesti",
+        "comuna": "Berbesti"
+    },
+    {
+        "nume": "Valea Mare",
+        "comuna": "Berbesti"
+    },
+    {
+        "nume": "Brădişor",
+        "simplu": "Bradisor",
+        "comuna": "Berislavesti"
+    },
+    {
+        "nume": "Dângeşti",
+        "simplu": "Dangesti",
+        "comuna": "Berislavesti"
+    },
+    {
+        "nume": "Robaia",
+        "comuna": "Berislavesti"
+    },
+    {
+        "nume": "Rădăcineşti",
+        "simplu": "Radacinesti",
+        "comuna": "Berislavesti"
+    },
+    {
+        "nume": "Scăueni",
+        "simplu": "Scaueni",
+        "comuna": "Berislavesti"
+    },
+    {
+        "nume": "Stoeneşti",
+        "simplu": "Stoenesti",
+        "comuna": "Berislavesti"
+    },
+    {
+        "nume": "Bumbueşti",
+        "simplu": "Bumbuesti",
+        "comuna": "Boisoara"
+    },
+    {
+        "nume": "Găujani",
+        "simplu": "Gaujani",
+        "comuna": "Boisoara"
+    },
+    {
+        "nume": "Corbu",
+        "comuna": "Brezoi"
+    },
+    {
+        "nume": "Călineşti",
+        "simplu": "Calinesti",
+        "comuna": "Brezoi"
+    },
+    {
+        "nume": "Drăgăneşti",
+        "simplu": "Draganesti",
+        "comuna": "Brezoi"
+    },
+    {
+        "nume": "Golotreni",
+        "comuna": "Brezoi"
+    },
+    {
+        "nume": "Proieni",
+        "comuna": "Brezoi"
+    },
+    {
+        "nume": "Păscoaia",
+        "simplu": "Pascoaia",
+        "comuna": "Brezoi"
+    },
+    {
+        "nume": "Valea lui Stan",
+        "comuna": "Brezoi"
+    },
+    {
+        "nume": "Văratica",
+        "simplu": "Varatica",
+        "comuna": "Brezoi"
+    },
+    {
+        "nume": "Barza",
+        "comuna": "Budesti"
+    },
+    {
+        "nume": "Bercioiu",
+        "comuna": "Budesti"
+    },
+    {
+        "nume": "Bârseşti",
+        "simplu": "Barsesti",
+        "comuna": "Budesti"
+    },
+    {
+        "nume": "Linia",
+        "comuna": "Budesti"
+    },
+    {
+        "nume": "Piscu Pietrei",
+        "comuna": "Budesti"
+    },
+    {
+        "nume": "Racoviţa",
+        "simplu": "Racovita",
+        "comuna": "Budesti"
+    },
+    {
+        "nume": "Ruda",
+        "comuna": "Budesti"
+    },
+    {
+        "nume": "Bogdăneşti",
+        "simplu": "Bogdanesti",
+        "comuna": "Bujoreni"
+    },
+    {
+        "nume": "Gura Văii",
+        "simplu": "Gura Vaii",
+        "comuna": "Bujoreni"
+    },
+    {
+        "nume": "Lunca",
+        "comuna": "Bujoreni"
+    },
+    {
+        "nume": "Malu Alb",
+        "comuna": "Bujoreni"
+    },
+    {
+        "nume": "Malu Vârtop",
+        "simplu": "Malu Vartop",
+        "comuna": "Bujoreni"
+    },
+    {
+        "nume": "Olteni",
+        "comuna": "Bujoreni"
+    },
+    {
+        "nume": "Coasta Mare",
+        "comuna": "Bunesti"
+    },
+    {
+        "nume": "Fireşti",
+        "simplu": "Firesti",
+        "comuna": "Bunesti"
+    },
+    {
+        "nume": "Râpăneşti",
+        "simplu": "Rapanesti",
+        "comuna": "Bunesti"
+    },
+    {
+        "nume": "Teiuşu",
+        "simplu": "Teiusu",
+        "comuna": "Bunesti"
+    },
+    {
+        "nume": "Titireci",
+        "comuna": "Bunesti"
+    },
+    {
+        "nume": "Câinenii Mari",
+        "simplu": "Cainenii Mari",
+        "comuna": "Caineni"
+    },
+    {
+        "nume": "Câinenii Mici",
+        "simplu": "Cainenii Mici",
+        "comuna": "Caineni"
+    },
+    {
+        "nume": "Grebleşti",
+        "simplu": "Greblesti",
+        "comuna": "Caineni"
+    },
+    {
+        "nume": "Priloage",
+        "comuna": "Caineni"
+    },
+    {
+        "nume": "Robeşti",
+        "simplu": "Robesti",
+        "comuna": "Caineni"
+    },
+    {
+        "nume": "Râu Vadului",
+        "simplu": "Rau Vadului",
+        "comuna": "Caineni"
+    },
+    {
+        "nume": "Căciulata",
+        "simplu": "Caciulata",
+        "comuna": "Calimanesti"
+    },
+    {
+        "nume": "Jiblea Nouă",
+        "simplu": "Jiblea Noua",
+        "comuna": "Calimanesti"
+    },
+    {
+        "nume": "Jiblea Veche",
+        "comuna": "Calimanesti"
+    },
+    {
+        "nume": "Păuşa",
+        "simplu": "Pausa",
+        "comuna": "Calimanesti"
+    },
+    {
+        "nume": "Seaca",
+        "comuna": "Calimanesti"
+    },
+    {
+        "nume": "Armăşeşti",
+        "simplu": "Armasesti",
+        "comuna": "Cernisoara"
+    },
+    {
+        "nume": "Groşi",
+        "simplu": "Grosi",
+        "comuna": "Cernisoara"
+    },
+    {
+        "nume": "Modoia",
+        "comuna": "Cernisoara"
+    },
+    {
+        "nume": "Mădulari",
+        "simplu": "Madulari",
+        "comuna": "Cernisoara"
+    },
+    {
+        "nume": "Obârşia",
+        "simplu": "Obarsia",
+        "comuna": "Cernisoara"
+    },
+    {
+        "nume": "Sărsăneşti",
+        "simplu": "Sarsanesti",
+        "comuna": "Cernisoara"
+    },
+    {
+        "nume": "Bondoci",
+        "comuna": "Copaceni"
+    },
+    {
+        "nume": "Bălteni",
+        "simplu": "Balteni",
+        "comuna": "Copaceni"
+    },
+    {
+        "nume": "Hotărasa",
+        "simplu": "Hotarasa",
+        "comuna": "Copaceni"
+    },
+    {
+        "nume": "Ulmetu",
+        "comuna": "Copaceni"
+    },
+    {
+        "nume": "Veţelu",
+        "simplu": "Vetelu",
+        "comuna": "Copaceni"
+    },
+    {
+        "nume": "Bistriţa",
+        "simplu": "Bistrita",
+        "comuna": "Costesti"
+    },
+    {
+        "nume": "Pietreni",
+        "comuna": "Costesti"
+    },
+    {
+        "nume": "Văratici",
+        "simplu": "Varatici",
+        "comuna": "Costesti"
+    },
+    {
+        "nume": "Izvoru",
+        "comuna": "Creteni"
+    },
+    {
+        "nume": "Mreneşti",
+        "simplu": "Mrenesti",
+        "comuna": "Creteni"
+    },
+    {
+        "nume": "Streminoasa",
+        "comuna": "Creteni"
+    },
+    {
+        "nume": "Băbueşti",
+        "simplu": "Babuesti",
+        "comuna": "Daesti"
+    },
+    {
+        "nume": "Fedeleşoiu",
+        "simplu": "Fedelesoiu",
+        "comuna": "Daesti"
+    },
+    {
+        "nume": "Sânbotin",
+        "simplu": "Sanbotin",
+        "comuna": "Daesti"
+    },
+    {
+        "nume": "Bădeni",
+        "simplu": "Badeni",
+        "comuna": "Danicei"
+    },
+    {
+        "nume": "Ceretu",
+        "comuna": "Danicei"
+    },
+    {
+        "nume": "Cireşul",
+        "simplu": "Ciresul",
+        "comuna": "Danicei"
+    },
+    {
+        "nume": "Dealu Lăunele",
+        "simplu": "Dealu Launele",
+        "comuna": "Danicei"
+    },
+    {
+        "nume": "Dealu Scheiului",
+        "comuna": "Danicei"
+    },
+    {
+        "nume": "Dobreşti",
+        "simplu": "Dobresti",
+        "comuna": "Danicei"
+    },
+    {
+        "nume": "Drăguleşti",
+        "simplu": "Dragulesti",
+        "comuna": "Danicei"
+    },
+    {
+        "nume": "Glodu",
+        "comuna": "Danicei"
+    },
+    {
+        "nume": "Gura Crucilor",
+        "comuna": "Danicei"
+    },
+    {
+        "nume": "Linia pe Vale",
+        "comuna": "Danicei"
+    },
+    {
+        "nume": "Lăunele de Jos",
+        "simplu": "Launele de Jos",
+        "comuna": "Danicei"
+    },
+    {
+        "nume": "Udreşti",
+        "simplu": "Udresti",
+        "comuna": "Danicei"
+    },
+    {
+        "nume": "Valea Scheiului",
+        "comuna": "Danicei"
+    },
+    {
+        "nume": "Valea Caselor",
+        "comuna": "Dragasani"
+    },
+    {
+        "nume": "Zlătărei",
+        "simplu": "Zlatarei",
+        "comuna": "Dragasani"
+    },
+    {
+        "nume": "Zărneni",
+        "simplu": "Zarneni",
+        "comuna": "Dragasani"
+    },
+    {
+        "nume": "Buciumeni",
+        "comuna": "Dragoesti"
+    },
+    {
+        "nume": "Geamăna",
+        "simplu": "Geamana",
+        "comuna": "Dragoesti"
+    },
+    {
+        "nume": "Afânata",
+        "simplu": "Afanata",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Becşani",
+        "simplu": "Becsani",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Cuci",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Căţetu",
+        "simplu": "Catetu",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Dejoi",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Dozeşti",
+        "simplu": "Dozesti",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Dăncăi",
+        "simplu": "Dancai",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Giuleşti",
+        "simplu": "Giulesti",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Giuleştii de Sus",
+        "simplu": "Giulestii de Sus",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Gârnicet",
+        "simplu": "Garnicet",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Măriceşti",
+        "simplu": "Maricesti",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Nisipi",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Popeşti",
+        "simplu": "Popesti",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Rusăneşti",
+        "simplu": "Rusanesti",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Seciu",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Stănculeşti",
+        "simplu": "Stanculesti",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Tanislavi",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Valea Ursului",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Şotani",
+        "simplu": "Sotani",
+        "comuna": "Fartatesti"
+    },
+    {
+        "nume": "Budeşti",
+        "simplu": "Budesti",
+        "comuna": "Fauresti"
+    },
+    {
+        "nume": "Bungeţani",
+        "simplu": "Bungetani",
+        "comuna": "Fauresti"
+    },
+    {
+        "nume": "Băbeni-Olteţu",
+        "simplu": "Babeni-Oltetu",
+        "comuna": "Fauresti"
+    },
+    {
+        "nume": "Colelia",
+        "comuna": "Fauresti"
+    },
+    {
+        "nume": "Diculeşti",
+        "simplu": "Diculesti",
+        "comuna": "Fauresti"
+    },
+    {
+        "nume": "Găineşti",
+        "simplu": "Gainesti",
+        "comuna": "Fauresti"
+    },
+    {
+        "nume": "Mileşti",
+        "simplu": "Milesti",
+        "comuna": "Fauresti"
+    },
+    {
+        "nume": "Mărcuşu",
+        "simplu": "Marcusu",
+        "comuna": "Fauresti"
+    },
+    {
+        "nume": "Băluţoaia",
+        "simplu": "Balutoaia",
+        "comuna": "Francesti"
+    },
+    {
+        "nume": "Coşani",
+        "simplu": "Cosani",
+        "comuna": "Francesti"
+    },
+    {
+        "nume": "Dezrobiţi",
+        "simplu": "Dezrobiti",
+        "comuna": "Francesti"
+    },
+    {
+        "nume": "Genuneni",
+        "comuna": "Francesti"
+    },
+    {
+        "nume": "Moşteni",
+        "simplu": "Mosteni",
+        "comuna": "Francesti"
+    },
+    {
+        "nume": "Mănăileşti",
+        "simplu": "Manailesti",
+        "comuna": "Francesti"
+    },
+    {
+        "nume": "Surpatele",
+        "comuna": "Francesti"
+    },
+    {
+        "nume": "Viişoara",
+        "simplu": "Viisoara",
+        "comuna": "Francesti"
+    },
+    {
+        "nume": "Bratia din Deal",
+        "comuna": "Galicea"
+    },
+    {
+        "nume": "Bratia din Vale",
+        "comuna": "Galicea"
+    },
+    {
+        "nume": "Cocoru",
+        "comuna": "Galicea"
+    },
+    {
+        "nume": "Cremenari",
+        "comuna": "Galicea"
+    },
+    {
+        "nume": "Dealu Mare",
+        "comuna": "Galicea"
+    },
+    {
+        "nume": "Ostroveni",
+        "comuna": "Galicea"
+    },
+    {
+        "nume": "Teiu",
+        "comuna": "Galicea"
+    },
+    {
+        "nume": "Valea Râului",
+        "simplu": "Valea Raului",
+        "comuna": "Galicea"
+    },
+    {
+        "nume": "Căzăneşti",
+        "simplu": "Cazanesti",
+        "comuna": "Ghioroiu"
+    },
+    {
+        "nume": "Herăşti",
+        "simplu": "Herasti",
+        "comuna": "Ghioroiu"
+    },
+    {
+        "nume": "Mierea",
+        "comuna": "Ghioroiu"
+    },
+    {
+        "nume": "Poienari",
+        "comuna": "Ghioroiu"
+    },
+    {
+        "nume": "Ştirbeşti",
+        "simplu": "Stirbesti",
+        "comuna": "Ghioroiu"
+    },
+    {
+        "nume": "Aninoasa",
+        "comuna": "Glavile"
+    },
+    {
+        "nume": "Jaroştea",
+        "simplu": "Jarostea",
+        "comuna": "Glavile"
+    },
+    {
+        "nume": "Olteanca",
+        "comuna": "Glavile"
+    },
+    {
+        "nume": "Voiculeasa",
+        "comuna": "Glavile"
+    },
+    {
+        "nume": "Aldeşti",
+        "simplu": "Aldesti",
+        "comuna": "Golesti"
+    },
+    {
+        "nume": "Blidari",
+        "comuna": "Golesti"
+    },
+    {
+        "nume": "Coasta",
+        "comuna": "Golesti"
+    },
+    {
+        "nume": "Drăgăneşti",
+        "simplu": "Draganesti",
+        "comuna": "Golesti"
+    },
+    {
+        "nume": "Gibeşti",
+        "simplu": "Gibesti",
+        "comuna": "Golesti"
+    },
+    {
+        "nume": "Giurgiuveni",
+        "comuna": "Golesti"
+    },
+    {
+        "nume": "Opăteşti",
+        "simplu": "Opatesti",
+        "comuna": "Golesti"
+    },
+    {
+        "nume": "Poeniţa",
+        "simplu": "Poenita",
+        "comuna": "Golesti"
+    },
+    {
+        "nume": "Popeşti",
+        "simplu": "Popesti",
+        "comuna": "Golesti"
+    },
+    {
+        "nume": "Tulei-Câmpeni",
+        "simplu": "Tulei-Campeni",
+        "comuna": "Golesti"
+    },
+    {
+        "nume": "Vătăşeşti",
+        "simplu": "Vatasesti",
+        "comuna": "Golesti"
+    },
+    {
+        "nume": "Diaconeşti",
+        "simplu": "Diaconesti",
+        "comuna": "Gradistea"
+    },
+    {
+        "nume": "Dobricea",
+        "comuna": "Gradistea"
+    },
+    {
+        "nume": "Linia",
+        "comuna": "Gradistea"
+    },
+    {
+        "nume": "Obislavu",
+        "comuna": "Gradistea"
+    },
+    {
+        "nume": "Străchineşti",
+        "simplu": "Strachinesti",
+        "comuna": "Gradistea"
+    },
+    {
+        "nume": "Turburea",
+        "comuna": "Gradistea"
+    },
+    {
+        "nume": "Valea Grădiştei",
+        "simplu": "Valea Gradistei",
+        "comuna": "Gradistea"
+    },
+    {
+        "nume": "Ţuţuru",
+        "simplu": "Tuturu",
+        "comuna": "Gradistea"
+    },
+    {
+        "nume": "Burdăleşti",
+        "simplu": "Burdalesti",
+        "comuna": "Gusoeni"
+    },
+    {
+        "nume": "Dealu Mare",
+        "comuna": "Gusoeni"
+    },
+    {
+        "nume": "Guşoianca",
+        "simplu": "Gusoianca",
+        "comuna": "Gusoeni"
+    },
+    {
+        "nume": "Măgureni",
+        "simplu": "Magureni",
+        "comuna": "Gusoeni"
+    },
+    {
+        "nume": "Spârleni",
+        "simplu": "Sparleni",
+        "comuna": "Gusoeni"
+    },
+    {
+        "nume": "Ifrimeşti",
+        "simplu": "Ifrimesti",
+        "comuna": "Horezu"
+    },
+    {
+        "nume": "Romanii de Jos",
+        "comuna": "Horezu"
+    },
+    {
+        "nume": "Romanii de Sus",
+        "comuna": "Horezu"
+    },
+    {
+        "nume": "Râmeşti",
+        "simplu": "Ramesti",
+        "comuna": "Horezu"
+    },
+    {
+        "nume": "Tănăseşti",
+        "simplu": "Tanasesti",
+        "comuna": "Horezu"
+    },
+    {
+        "nume": "Urşani",
+        "simplu": "Ursani",
+        "comuna": "Horezu"
+    },
+    {
+        "nume": "Bucşani",
+        "simplu": "Bucsani",
+        "comuna": "Ionesti"
+    },
+    {
+        "nume": "Dealu Mare",
+        "comuna": "Ionesti"
+    },
+    {
+        "nume": "Delureni",
+        "comuna": "Ionesti"
+    },
+    {
+        "nume": "Fişcălia",
+        "simplu": "Fiscalia",
+        "comuna": "Ionesti"
+    },
+    {
+        "nume": "Foteşti",
+        "simplu": "Fotesti",
+        "comuna": "Ionesti"
+    },
+    {
+        "nume": "Guguianca",
+        "comuna": "Ionesti"
+    },
+    {
+        "nume": "Marcea",
+        "comuna": "Ionesti"
+    },
+    {
+        "nume": "Prodăneşti",
+        "simplu": "Prodanesti",
+        "comuna": "Ionesti"
+    },
+    {
+        "nume": "Cermegeşti",
+        "simplu": "Cermegesti",
+        "comuna": "Ladesti"
+    },
+    {
+        "nume": "Chiriceşti",
+        "simplu": "Chiricesti",
+        "comuna": "Ladesti"
+    },
+    {
+        "nume": "Ciumagi",
+        "comuna": "Ladesti"
+    },
+    {
+        "nume": "Dealu Corni",
+        "comuna": "Ladesti"
+    },
+    {
+        "nume": "Găgeni",
+        "simplu": "Gageni",
+        "comuna": "Ladesti"
+    },
+    {
+        "nume": "Măldăreşti",
+        "simplu": "Maldaresti",
+        "comuna": "Ladesti"
+    },
+    {
+        "nume": "Olteanca",
+        "comuna": "Ladesti"
+    },
+    {
+        "nume": "Popeşti",
+        "simplu": "Popesti",
+        "comuna": "Ladesti"
+    },
+    {
+        "nume": "Păsculeşti",
+        "simplu": "Pasculesti",
+        "comuna": "Ladesti"
+    },
+    {
+        "nume": "Berbeşti",
+        "simplu": "Berbesti",
+        "comuna": "Lalosu"
+    },
+    {
+        "nume": "Ghindari",
+        "comuna": "Lalosu"
+    },
+    {
+        "nume": "Mologeşti",
+        "simplu": "Mologesti",
+        "comuna": "Lalosu"
+    },
+    {
+        "nume": "Olteţani",
+        "simplu": "Oltetani",
+        "comuna": "Lalosu"
+    },
+    {
+        "nume": "Portăreşti",
+        "simplu": "Portaresti",
+        "comuna": "Lalosu"
+    },
+    {
+        "nume": "Bereşti",
+        "simplu": "Beresti",
+        "comuna": "Lapusata"
+    },
+    {
+        "nume": "Broşteni",
+        "simplu": "Brosteni",
+        "comuna": "Lapusata"
+    },
+    {
+        "nume": "Mijaţi",
+        "simplu": "Mijati",
+        "comuna": "Lapusata"
+    },
+    {
+        "nume": "Scoruşu",
+        "simplu": "Scorusu",
+        "comuna": "Lapusata"
+    },
+    {
+        "nume": "Săruleşti",
+        "simplu": "Sarulesti",
+        "comuna": "Lapusata"
+    },
+    {
+        "nume": "Zărneşti",
+        "simplu": "Zarnesti",
+        "comuna": "Lapusata"
+    },
+    {
+        "nume": "Şerbăneşti",
+        "simplu": "Serbanesti",
+        "comuna": "Lapusata"
+    },
+    {
+        "nume": "Pleşoiu",
+        "simplu": "Plesoiu",
+        "comuna": "Livezi"
+    },
+    {
+        "nume": "Pârâienii de Jos",
+        "simplu": "Paraienii de Jos",
+        "comuna": "Livezi"
+    },
+    {
+        "nume": "Pârâienii de Mijloc",
+        "simplu": "Paraienii de Mijloc",
+        "comuna": "Livezi"
+    },
+    {
+        "nume": "Pârâienii de Sus",
+        "simplu": "Paraienii de Sus",
+        "comuna": "Livezi"
+    },
+    {
+        "nume": "Părăuşani",
+        "simplu": "Parausani",
+        "comuna": "Livezi"
+    },
+    {
+        "nume": "Tina",
+        "comuna": "Livezi"
+    },
+    {
+        "nume": "Cărcădieşti",
+        "simplu": "Carcadiesti",
+        "comuna": "Lungesti"
+    },
+    {
+        "nume": "Dumbrava",
+        "comuna": "Lungesti"
+    },
+    {
+        "nume": "Fumureni",
+        "comuna": "Lungesti"
+    },
+    {
+        "nume": "Gănţulei",
+        "simplu": "Gantulei",
+        "comuna": "Lungesti"
+    },
+    {
+        "nume": "Stăneşti-Lunca",
+        "simplu": "Stanesti-Lunca",
+        "comuna": "Lungesti"
+    },
+    {
+        "nume": "Bocşa",
+        "simplu": "Bocsa",
+        "comuna": "Maciuca"
+    },
+    {
+        "nume": "Botorani",
+        "comuna": "Maciuca"
+    },
+    {
+        "nume": "Ciocănari",
+        "simplu": "Ciocanari",
+        "comuna": "Maciuca"
+    },
+    {
+        "nume": "Măciuceni",
+        "simplu": "Maciuceni",
+        "comuna": "Maciuca"
+    },
+    {
+        "nume": "Măldăreşti",
+        "simplu": "Maldaresti",
+        "comuna": "Maciuca"
+    },
+    {
+        "nume": "Oveselu",
+        "comuna": "Maciuca"
+    },
+    {
+        "nume": "Popeşti",
+        "simplu": "Popesti",
+        "comuna": "Maciuca"
+    },
+    {
+        "nume": "Zăvoieni",
+        "simplu": "Zavoieni",
+        "comuna": "Maciuca"
+    },
+    {
+        "nume": "Ştefăneşti",
+        "simplu": "Stefanesti",
+        "comuna": "Maciuca"
+    },
+    {
+        "nume": "Bălşoara",
+        "simplu": "Balsoara",
+        "comuna": "Madulari"
+    },
+    {
+        "nume": "Bănţeşti",
+        "simplu": "Bantesti",
+        "comuna": "Madulari"
+    },
+    {
+        "nume": "Dimuleşti",
+        "simplu": "Dimulesti",
+        "comuna": "Madulari"
+    },
+    {
+        "nume": "Iacovile",
+        "comuna": "Madulari"
+    },
+    {
+        "nume": "Mamu",
+        "comuna": "Madulari"
+    },
+    {
+        "nume": "Ciungetu",
+        "comuna": "Malaia"
+    },
+    {
+        "nume": "Săliştea",
+        "simplu": "Salistea",
+        "comuna": "Malaia"
+    },
+    {
+        "nume": "Măldăreştii de Jos",
+        "simplu": "Maldarestii de Jos",
+        "comuna": "Maldaresti"
+    },
+    {
+        "nume": "Roşoveni",
+        "simplu": "Rosoveni",
+        "comuna": "Maldaresti"
+    },
+    {
+        "nume": "Telecheşti",
+        "simplu": "Telechesti",
+        "comuna": "Maldaresti"
+    },
+    {
+        "nume": "Greci",
+        "comuna": "Mateesti"
+    },
+    {
+        "nume": "Turceşti",
+        "simplu": "Turcesti",
+        "comuna": "Mateesti"
+    },
+    {
+        "nume": "Arsanca",
+        "comuna": "Mihaesti"
+    },
+    {
+        "nume": "Buleta",
+        "comuna": "Mihaesti"
+    },
+    {
+        "nume": "Bârseşti",
+        "simplu": "Barsesti",
+        "comuna": "Mihaesti"
+    },
+    {
+        "nume": "Govora",
+        "comuna": "Mihaesti"
+    },
+    {
+        "nume": "Gurişoara",
+        "simplu": "Gurisoara",
+        "comuna": "Mihaesti"
+    },
+    {
+        "nume": "Munteni",
+        "comuna": "Mihaesti"
+    },
+    {
+        "nume": "Măgura",
+        "simplu": "Magura",
+        "comuna": "Mihaesti"
+    },
+    {
+        "nume": "Negreni",
+        "comuna": "Mihaesti"
+    },
+    {
+        "nume": "Rugetu",
+        "comuna": "Mihaesti"
+    },
+    {
+        "nume": "Scărişoara",
+        "simplu": "Scarisoara",
+        "comuna": "Mihaesti"
+    },
+    {
+        "nume": "Stupărei",
+        "simplu": "Stuparei",
+        "comuna": "Mihaesti"
+    },
+    {
+        "nume": "Vulpueşti",
+        "simplu": "Vulpuesti",
+        "comuna": "Mihaesti"
+    },
+    {
+        "nume": "Ciuteşti",
+        "simplu": "Ciutesti",
+        "comuna": "Milcoiu"
+    },
+    {
+        "nume": "Căzăneşti",
+        "simplu": "Cazanesti",
+        "comuna": "Milcoiu"
+    },
+    {
+        "nume": "Izbăseşti",
+        "simplu": "Izbasesti",
+        "comuna": "Milcoiu"
+    },
+    {
+        "nume": "Tepşenari",
+        "simplu": "Tepsenari",
+        "comuna": "Milcoiu"
+    },
+    {
+        "nume": "Şuricaru",
+        "simplu": "Suricaru",
+        "comuna": "Milcoiu"
+    },
+    {
+        "nume": "Andreieşti",
+        "simplu": "Andreiesti",
+        "comuna": "Muereasca"
+    },
+    {
+        "nume": "Frânceşti-Coasta",
+        "simplu": "Francesti-Coasta",
+        "comuna": "Muereasca"
+    },
+    {
+        "nume": "Găvăneşti",
+        "simplu": "Gavanesti",
+        "comuna": "Muereasca"
+    },
+    {
+        "nume": "Hotarele",
+        "comuna": "Muereasca"
+    },
+    {
+        "nume": "Muereasca de Sus",
+        "comuna": "Muereasca"
+    },
+    {
+        "nume": "Pripoara",
+        "comuna": "Muereasca"
+    },
+    {
+        "nume": "Şuta",
+        "simplu": "Suta",
+        "comuna": "Muereasca"
+    },
+    {
+        "nume": "Băneşti",
+        "simplu": "Banesti",
+        "comuna": "Nicolae Balcescu"
+    },
+    {
+        "nume": "Corbii din Vale",
+        "comuna": "Nicolae Balcescu"
+    },
+    {
+        "nume": "Dosu Râului",
+        "simplu": "Dosu Raului",
+        "comuna": "Nicolae Balcescu"
+    },
+    {
+        "nume": "Ginerica",
+        "comuna": "Nicolae Balcescu"
+    },
+    {
+        "nume": "Gâltofani",
+        "simplu": "Galtofani",
+        "comuna": "Nicolae Balcescu"
+    },
+    {
+        "nume": "Linia Hanului",
+        "comuna": "Nicolae Balcescu"
+    },
+    {
+        "nume": "Mângureni",
+        "simplu": "Mangureni",
+        "comuna": "Nicolae Balcescu"
+    },
+    {
+        "nume": "Măzăraru",
+        "simplu": "Mazararu",
+        "comuna": "Nicolae Balcescu"
+    },
+    {
+        "nume": "Pleşoiu",
+        "simplu": "Plesoiu",
+        "comuna": "Nicolae Balcescu"
+    },
+    {
+        "nume": "Popeşti",
+        "simplu": "Popesti",
+        "comuna": "Nicolae Balcescu"
+    },
+    {
+        "nume": "Predeşti",
+        "simplu": "Predesti",
+        "comuna": "Nicolae Balcescu"
+    },
+    {
+        "nume": "Rotărăşti",
+        "simplu": "Rotarasti",
+        "comuna": "Nicolae Balcescu"
+    },
+    {
+        "nume": "Schitu",
+        "comuna": "Nicolae Balcescu"
+    },
+    {
+        "nume": "Tufanii",
+        "comuna": "Nicolae Balcescu"
+    },
+    {
+        "nume": "Valea Bălcească",
+        "simplu": "Valea Balceasca",
+        "comuna": "Nicolae Balcescu"
+    },
+    {
+        "nume": "Valea Viei",
+        "comuna": "Nicolae Balcescu"
+    },
+    {
+        "nume": "Şerbăneasa",
+        "simplu": "Serbaneasa",
+        "comuna": "Nicolae Balcescu"
+    },
+    {
+        "nume": "Buda",
+        "comuna": "Ocnele Mari"
+    },
+    {
+        "nume": "Cosota",
+        "comuna": "Ocnele Mari"
+    },
+    {
+        "nume": "Făcăi",
+        "simplu": "Facai",
+        "comuna": "Ocnele Mari"
+    },
+    {
+        "nume": "Gura Suhaşului",
+        "simplu": "Gura Suhasului",
+        "comuna": "Ocnele Mari"
+    },
+    {
+        "nume": "Lunca",
+        "comuna": "Ocnele Mari"
+    },
+    {
+        "nume": "Ocniţa",
+        "simplu": "Ocnita",
+        "comuna": "Ocnele Mari"
+    },
+    {
+        "nume": "Slătioarele",
+        "simplu": "Slatioarele",
+        "comuna": "Ocnele Mari"
+    },
+    {
+        "nume": "Ţeica",
+        "simplu": "Teica",
+        "comuna": "Ocnele Mari"
+    },
+    {
+        "nume": "Casa Veche",
+        "comuna": "Olanu"
+    },
+    {
+        "nume": "Cioboţi",
+        "simplu": "Cioboti",
+        "comuna": "Olanu"
+    },
+    {
+        "nume": "Drăgioiu",
+        "simplu": "Dragioiu",
+        "comuna": "Olanu"
+    },
+    {
+        "nume": "Nicoleşti",
+        "simplu": "Nicolesti",
+        "comuna": "Olanu"
+    },
+    {
+        "nume": "Stoicăneşti",
+        "simplu": "Stoicanesti",
+        "comuna": "Olanu"
+    },
+    {
+        "nume": "Aureşti",
+        "simplu": "Auresti",
+        "comuna": "Orlesti"
+    },
+    {
+        "nume": "Procopoaia",
+        "comuna": "Orlesti"
+    },
+    {
+        "nume": "Scaioşi",
+        "simplu": "Scaiosi",
+        "comuna": "Orlesti"
+    },
+    {
+        "nume": "Silea",
+        "comuna": "Orlesti"
+    },
+    {
+        "nume": "Bogdăneşti",
+        "simplu": "Bogdanesti",
+        "comuna": "Otesani"
+    },
+    {
+        "nume": "Cuceşti",
+        "simplu": "Cucesti",
+        "comuna": "Otesani"
+    },
+    {
+        "nume": "Cârstăneşti",
+        "simplu": "Carstanesti",
+        "comuna": "Otesani"
+    },
+    {
+        "nume": "Sub Deal",
+        "comuna": "Otesani"
+    },
+    {
+        "nume": "Barcanele",
+        "comuna": "Pausesti"
+    },
+    {
+        "nume": "Buzdugan",
+        "comuna": "Pausesti"
+    },
+    {
+        "nume": "Cernelele",
+        "comuna": "Pausesti"
+    },
+    {
+        "nume": "Păuseşti-Otăsău",
+        "simplu": "Pausesti-Otasau",
+        "comuna": "Pausesti"
+    },
+    {
+        "nume": "Văleni",
+        "simplu": "Valeni",
+        "comuna": "Pausesti"
+    },
+    {
+        "nume": "Şerbăneşti",
+        "simplu": "Serbanesti",
+        "comuna": "Pausesti"
+    },
+    {
+        "nume": "Şoliceşti",
+        "simplu": "Solicesti",
+        "comuna": "Pausesti"
+    },
+    {
+        "nume": "Coasta",
+        "comuna": "Pausesti-Maglasi"
+    },
+    {
+        "nume": "Pietrari",
+        "comuna": "Pausesti-Maglasi"
+    },
+    {
+        "nume": "Ulmeţel",
+        "simplu": "Ulmetel",
+        "comuna": "Pausesti-Maglasi"
+    },
+    {
+        "nume": "Valea Cheii",
+        "comuna": "Pausesti-Maglasi"
+    },
+    {
+        "nume": "Vlăduceni",
+        "simplu": "Vladuceni",
+        "comuna": "Pausesti-Maglasi"
+    },
+    {
+        "nume": "Băiaşu",
+        "simplu": "Baiasu",
+        "comuna": "Perisani"
+    },
+    {
+        "nume": "Mlăceni",
+        "simplu": "Mlaceni",
+        "comuna": "Perisani"
+    },
+    {
+        "nume": "Podeni",
+        "comuna": "Perisani"
+    },
+    {
+        "nume": "Poiana",
+        "comuna": "Perisani"
+    },
+    {
+        "nume": "Pripoare",
+        "comuna": "Perisani"
+    },
+    {
+        "nume": "Spinu",
+        "comuna": "Perisani"
+    },
+    {
+        "nume": "Surdoiu",
+        "comuna": "Perisani"
+    },
+    {
+        "nume": "Cermegeşti",
+        "simplu": "Cermegesti",
+        "comuna": "Pesceana"
+    },
+    {
+        "nume": "Lupoaia",
+        "comuna": "Pesceana"
+    },
+    {
+        "nume": "Negraia",
+        "comuna": "Pesceana"
+    },
+    {
+        "nume": "Roeşti",
+        "simplu": "Roesti",
+        "comuna": "Pesceana"
+    },
+    {
+        "nume": "Ursoaia",
+        "comuna": "Pesceana"
+    },
+    {
+        "nume": "Pietrarii de Sus",
+        "comuna": "Pietrari"
+    },
+    {
+        "nume": "Curtea",
+        "comuna": "Popesti"
+    },
+    {
+        "nume": "Dăeşti",
+        "simplu": "Daesti",
+        "comuna": "Popesti"
+    },
+    {
+        "nume": "Firijba",
+        "comuna": "Popesti"
+    },
+    {
+        "nume": "Meieni",
+        "comuna": "Popesti"
+    },
+    {
+        "nume": "Urşi",
+        "simplu": "Ursi",
+        "comuna": "Popesti"
+    },
+    {
+        "nume": "Valea Caselor",
+        "comuna": "Popesti"
+    },
+    {
+        "nume": "Bărbuceni",
+        "simplu": "Barbuceni",
+        "comuna": "Prundeni"
+    },
+    {
+        "nume": "Călina",
+        "simplu": "Calina",
+        "comuna": "Prundeni"
+    },
+    {
+        "nume": "Zăvideni",
+        "simplu": "Zavideni",
+        "comuna": "Prundeni"
+    },
+    {
+        "nume": "Balota",
+        "comuna": "Racovita"
+    },
+    {
+        "nume": "Blănoiu",
+        "simplu": "Blanoiu",
+        "comuna": "Racovita"
+    },
+    {
+        "nume": "Bradu-Clocotici",
+        "comuna": "Racovita"
+    },
+    {
+        "nume": "Copăceni",
+        "simplu": "Copaceni",
+        "comuna": "Racovita"
+    },
+    {
+        "nume": "Gruiu Lupului",
+        "comuna": "Racovita"
+    },
+    {
+        "nume": "Tuţuleşti",
+        "simplu": "Tutulesti",
+        "comuna": "Racovita"
+    },
+    {
+        "nume": "Aranghel",
+        "comuna": "Ramnicu Valcea"
+    },
+    {
+        "nume": "Copăcelu",
+        "simplu": "Copacelu",
+        "comuna": "Ramnicu Valcea"
+    },
+    {
+        "nume": "Căzăneşti",
+        "simplu": "Cazanesti",
+        "comuna": "Ramnicu Valcea"
+    },
+    {
+        "nume": "Dealu Malului",
+        "comuna": "Ramnicu Valcea"
+    },
+    {
+        "nume": "Feţeni",
+        "simplu": "Feteni",
+        "comuna": "Ramnicu Valcea"
+    },
+    {
+        "nume": "Goranu",
+        "comuna": "Ramnicu Valcea"
+    },
+    {
+        "nume": "Lespezi",
+        "comuna": "Ramnicu Valcea"
+    },
+    {
+        "nume": "Poenari",
+        "comuna": "Ramnicu Valcea"
+    },
+    {
+        "nume": "Priba",
+        "comuna": "Ramnicu Valcea"
+    },
+    {
+        "nume": "Râureni",
+        "simplu": "Raureni",
+        "comuna": "Ramnicu Valcea"
+    },
+    {
+        "nume": "Stolniceni",
+        "comuna": "Ramnicu Valcea"
+    },
+    {
+        "nume": "Săliştea",
+        "simplu": "Salistea",
+        "comuna": "Ramnicu Valcea"
+    },
+    {
+        "nume": "Troian",
+        "comuna": "Ramnicu Valcea"
+    },
+    {
+        "nume": "Băiaşa",
+        "simplu": "Baiasa",
+        "comuna": "Roesti"
+    },
+    {
+        "nume": "Băjenari",
+        "simplu": "Bajenari",
+        "comuna": "Roesti"
+    },
+    {
+        "nume": "Bărbărigeni",
+        "simplu": "Barbarigeni",
+        "comuna": "Roesti"
+    },
+    {
+        "nume": "Ciocâltei",
+        "simplu": "Ciocaltei",
+        "comuna": "Roesti"
+    },
+    {
+        "nume": "Cueni",
+        "comuna": "Roesti"
+    },
+    {
+        "nume": "Frăsina",
+        "simplu": "Frasina",
+        "comuna": "Roesti"
+    },
+    {
+        "nume": "Piscu Scoarţei",
+        "simplu": "Piscu Scoartei",
+        "comuna": "Roesti"
+    },
+    {
+        "nume": "Râpa Cărămizii",
+        "simplu": "Rapa Caramizii",
+        "comuna": "Roesti"
+    },
+    {
+        "nume": "Saioci",
+        "comuna": "Roesti"
+    },
+    {
+        "nume": "Balaciu",
+        "comuna": "Rosiile"
+    },
+    {
+        "nume": "Cherăşti",
+        "simplu": "Cherasti",
+        "comuna": "Rosiile"
+    },
+    {
+        "nume": "Hotăroaia",
+        "simplu": "Hotaroaia",
+        "comuna": "Rosiile"
+    },
+    {
+        "nume": "Lupuieşti",
+        "simplu": "Lupuiesti",
+        "comuna": "Rosiile"
+    },
+    {
+        "nume": "Perteşti",
+        "simplu": "Pertesti",
+        "comuna": "Rosiile"
+    },
+    {
+        "nume": "Pleseşti",
+        "simplu": "Plesesti",
+        "comuna": "Rosiile"
+    },
+    {
+        "nume": "Păsărei",
+        "simplu": "Pasarei",
+        "comuna": "Rosiile"
+    },
+    {
+        "nume": "Româneşti",
+        "simplu": "Romanesti",
+        "comuna": "Rosiile"
+    },
+    {
+        "nume": "Răţăleşti",
+        "simplu": "Ratalesti",
+        "comuna": "Rosiile"
+    },
+    {
+        "nume": "Zgubea",
+        "comuna": "Rosiile"
+    },
+    {
+        "nume": "Căligi",
+        "simplu": "Caligi",
+        "comuna": "Runcu"
+    },
+    {
+        "nume": "Gropeni",
+        "comuna": "Runcu"
+    },
+    {
+        "nume": "Snamăna",
+        "simplu": "Snamana",
+        "comuna": "Runcu"
+    },
+    {
+        "nume": "Surpaţi",
+        "simplu": "Surpati",
+        "comuna": "Runcu"
+    },
+    {
+        "nume": "Valea Babei",
+        "comuna": "Runcu"
+    },
+    {
+        "nume": "Vărateci",
+        "simplu": "Varateci",
+        "comuna": "Runcu"
+    },
+    {
+        "nume": "Păteşti",
+        "simplu": "Patesti",
+        "comuna": "Salatrucel"
+    },
+    {
+        "nume": "Seaca",
+        "comuna": "Salatrucel"
+    },
+    {
+        "nume": "Şerbăneşti",
+        "simplu": "Serbanesti",
+        "comuna": "Salatrucel"
+    },
+    {
+        "nume": "Avrămeşti",
+        "simplu": "Avramesti",
+        "comuna": "Scundu"
+    },
+    {
+        "nume": "Blejani",
+        "comuna": "Scundu"
+    },
+    {
+        "nume": "Crângu",
+        "simplu": "Crangu",
+        "comuna": "Scundu"
+    },
+    {
+        "nume": "Ciucheţi",
+        "simplu": "Ciucheti",
+        "comuna": "Sinesti"
+    },
+    {
+        "nume": "Dealu Bisericii",
+        "comuna": "Sinesti"
+    },
+    {
+        "nume": "Mijlocu",
+        "comuna": "Sinesti"
+    },
+    {
+        "nume": "Popeşti",
+        "simplu": "Popesti",
+        "comuna": "Sinesti"
+    },
+    {
+        "nume": "Urzica",
+        "comuna": "Sinesti"
+    },
+    {
+        "nume": "Aricioaia",
+        "comuna": "Sirineasa"
+    },
+    {
+        "nume": "Ciorăşti",
+        "simplu": "Ciorasti",
+        "comuna": "Sirineasa"
+    },
+    {
+        "nume": "Slăviteşti",
+        "simplu": "Slavitesti",
+        "comuna": "Sirineasa"
+    },
+    {
+        "nume": "Valea Alunişului",
+        "simplu": "Valea Alunisului",
+        "comuna": "Sirineasa"
+    },
+    {
+        "nume": "Coasta Cerbului",
+        "comuna": "Slatioara"
+    },
+    {
+        "nume": "Goruneşti",
+        "simplu": "Gorunesti",
+        "comuna": "Slatioara"
+    },
+    {
+        "nume": "Milostea",
+        "comuna": "Slatioara"
+    },
+    {
+        "nume": "Mogeşti",
+        "simplu": "Mogesti",
+        "comuna": "Slatioara"
+    },
+    {
+        "nume": "Rugetu",
+        "comuna": "Slatioara"
+    },
+    {
+        "nume": "Bărcăneşti",
+        "simplu": "Barcanesti",
+        "comuna": "Stanesti"
+    },
+    {
+        "nume": "Cioponeşti",
+        "simplu": "Cioponesti",
+        "comuna": "Stanesti"
+    },
+    {
+        "nume": "Cuculeşti",
+        "simplu": "Cuculesti",
+        "comuna": "Stanesti"
+    },
+    {
+        "nume": "Gârnicetu",
+        "simplu": "Garnicetu",
+        "comuna": "Stanesti"
+    },
+    {
+        "nume": "Linia Dealului",
+        "comuna": "Stanesti"
+    },
+    {
+        "nume": "Suieşti",
+        "simplu": "Suiesti",
+        "comuna": "Stanesti"
+    },
+    {
+        "nume": "Valea Lungă",
+        "simplu": "Valea Lunga",
+        "comuna": "Stanesti"
+    },
+    {
+        "nume": "Vârleni",
+        "simplu": "Varleni",
+        "comuna": "Stanesti"
+    },
+    {
+        "nume": "Condoieşti",
+        "simplu": "Condoiesti",
+        "comuna": "Stefanesti"
+    },
+    {
+        "nume": "Dobruşa",
+        "simplu": "Dobrusa",
+        "comuna": "Stefanesti"
+    },
+    {
+        "nume": "Şerbăneşti",
+        "simplu": "Serbanesti",
+        "comuna": "Stefanesti"
+    },
+    {
+        "nume": "Budurăşti",
+        "simplu": "Budurasti",
+        "comuna": "Stoenesti"
+    },
+    {
+        "nume": "Bârlogu",
+        "simplu": "Barlogu",
+        "comuna": "Stoenesti"
+    },
+    {
+        "nume": "Deleni",
+        "comuna": "Stoenesti"
+    },
+    {
+        "nume": "Dobriceni",
+        "comuna": "Stoenesti"
+    },
+    {
+        "nume": "Gruieri",
+        "comuna": "Stoenesti"
+    },
+    {
+        "nume": "Gruiu",
+        "comuna": "Stoenesti"
+    },
+    {
+        "nume": "Mogoşeşti",
+        "simplu": "Mogosesti",
+        "comuna": "Stoenesti"
+    },
+    {
+        "nume": "Neghineşti",
+        "simplu": "Neghinesti",
+        "comuna": "Stoenesti"
+    },
+    {
+        "nume": "Piscu Mare",
+        "comuna": "Stoenesti"
+    },
+    {
+        "nume": "Popeşti",
+        "simplu": "Popesti",
+        "comuna": "Stoenesti"
+    },
+    {
+        "nume": "Suseni",
+        "comuna": "Stoenesti"
+    },
+    {
+        "nume": "Zmeurătu",
+        "simplu": "Zmeuratu",
+        "comuna": "Stoenesti"
+    },
+    {
+        "nume": "Balomireasa",
+        "comuna": "Stoilesti"
+    },
+    {
+        "nume": "Bulagei",
+        "comuna": "Stoilesti"
+    },
+    {
+        "nume": "Bârsoiu",
+        "simplu": "Barsoiu",
+        "comuna": "Stoilesti"
+    },
+    {
+        "nume": "Delureni",
+        "comuna": "Stoilesti"
+    },
+    {
+        "nume": "Geamăna",
+        "simplu": "Geamana",
+        "comuna": "Stoilesti"
+    },
+    {
+        "nume": "Ghiobeşti",
+        "simplu": "Ghiobesti",
+        "comuna": "Stoilesti"
+    },
+    {
+        "nume": "Giuroiu",
+        "comuna": "Stoilesti"
+    },
+    {
+        "nume": "Izvoru Rece",
+        "comuna": "Stoilesti"
+    },
+    {
+        "nume": "Malu",
+        "comuna": "Stoilesti"
+    },
+    {
+        "nume": "Neţeşti",
+        "simplu": "Netesti",
+        "comuna": "Stoilesti"
+    },
+    {
+        "nume": "Obogeni",
+        "comuna": "Stoilesti"
+    },
+    {
+        "nume": "Stăneşti",
+        "simplu": "Stanesti",
+        "comuna": "Stoilesti"
+    },
+    {
+        "nume": "Urşi",
+        "simplu": "Ursi",
+        "comuna": "Stoilesti"
+    },
+    {
+        "nume": "Vlăduleşti",
+        "simplu": "Vladulesti",
+        "comuna": "Stoilesti"
+    },
+    {
+        "nume": "Cireşu",
+        "simplu": "Ciresu",
+        "comuna": "Stroesti"
+    },
+    {
+        "nume": "Dianu",
+        "comuna": "Stroesti"
+    },
+    {
+        "nume": "Obroceşti",
+        "simplu": "Obrocesti",
+        "comuna": "Stroesti"
+    },
+    {
+        "nume": "Pojogi-Cerna",
+        "comuna": "Stroesti"
+    },
+    {
+        "nume": "Râmeşti",
+        "simplu": "Ramesti",
+        "comuna": "Susani"
+    },
+    {
+        "nume": "Stoiculeşti",
+        "simplu": "Stoiculesti",
+        "comuna": "Susani"
+    },
+    {
+        "nume": "Sârbi",
+        "simplu": "Sarbi",
+        "comuna": "Susani"
+    },
+    {
+        "nume": "Uşurei",
+        "simplu": "Usurei",
+        "comuna": "Susani"
+    },
+    {
+        "nume": "Boroşeşti",
+        "simplu": "Borosesti",
+        "comuna": "Sutesti"
+    },
+    {
+        "nume": "Cetăţeaua",
+        "simplu": "Cetateaua",
+        "comuna": "Sutesti"
+    },
+    {
+        "nume": "Izvoraşu",
+        "simplu": "Izvorasu",
+        "comuna": "Sutesti"
+    },
+    {
+        "nume": "Mitrofani",
+        "comuna": "Sutesti"
+    },
+    {
+        "nume": "Măzili",
+        "simplu": "Mazili",
+        "comuna": "Sutesti"
+    },
+    {
+        "nume": "Racu",
+        "comuna": "Sutesti"
+    },
+    {
+        "nume": "Verdea",
+        "comuna": "Sutesti"
+    },
+    {
+        "nume": "Budele",
+        "comuna": "Tetoiu"
+    },
+    {
+        "nume": "Băroiu",
+        "simplu": "Baroiu",
+        "comuna": "Tetoiu"
+    },
+    {
+        "nume": "Măneasa",
+        "simplu": "Maneasa",
+        "comuna": "Tetoiu"
+    },
+    {
+        "nume": "Nenciuleşti",
+        "simplu": "Nenciulesti",
+        "comuna": "Tetoiu"
+    },
+    {
+        "nume": "Popeşti",
+        "simplu": "Popesti",
+        "comuna": "Tetoiu"
+    },
+    {
+        "nume": "Ţepeşti",
+        "simplu": "Tepesti",
+        "comuna": "Tetoiu"
+    },
+    {
+        "nume": "Bratoveşti",
+        "simplu": "Bratovesti",
+        "comuna": "Titesti"
+    },
+    {
+        "nume": "Cucoiu",
+        "comuna": "Titesti"
+    },
+    {
+        "nume": "Bogdăneşti",
+        "simplu": "Bogdanesti",
+        "comuna": "Tomsani"
+    },
+    {
+        "nume": "Băltăţeni",
+        "simplu": "Baltateni",
+        "comuna": "Tomsani"
+    },
+    {
+        "nume": "Chiceni",
+        "comuna": "Tomsani"
+    },
+    {
+        "nume": "Dumbrăveşti",
+        "simplu": "Dumbravesti",
+        "comuna": "Tomsani"
+    },
+    {
+        "nume": "Foleştii de Jos",
+        "simplu": "Folestii de Jos",
+        "comuna": "Tomsani"
+    },
+    {
+        "nume": "Foleştii de Sus",
+        "simplu": "Folestii de Sus",
+        "comuna": "Tomsani"
+    },
+    {
+        "nume": "Mireşti",
+        "simplu": "Miresti",
+        "comuna": "Tomsani"
+    },
+    {
+        "nume": "Cerna",
+        "comuna": "Vaideeni"
+    },
+    {
+        "nume": "Cornet",
+        "comuna": "Vaideeni"
+    },
+    {
+        "nume": "Izvoru Rece",
+        "comuna": "Vaideeni"
+    },
+    {
+        "nume": "Mariţa",
+        "simplu": "Marita",
+        "comuna": "Vaideeni"
+    },
+    {
+        "nume": "Bătăşani",
+        "simplu": "Batasani",
+        "comuna": "Valea Mare"
+    },
+    {
+        "nume": "Delureni",
+        "comuna": "Valea Mare"
+    },
+    {
+        "nume": "Drăganu",
+        "simplu": "Draganu",
+        "comuna": "Valea Mare"
+    },
+    {
+        "nume": "Mărgineni",
+        "simplu": "Margineni",
+        "comuna": "Valea Mare"
+    },
+    {
+        "nume": "Pietroasa",
+        "comuna": "Valea Mare"
+    },
+    {
+        "nume": "Fundătura",
+        "simplu": "Fundatura",
+        "comuna": "Vladesti"
+    },
+    {
+        "nume": "Pleaşa",
+        "simplu": "Pleasa",
+        "comuna": "Vladesti"
+    },
+    {
+        "nume": "Priporu",
+        "comuna": "Vladesti"
+    },
+    {
+        "nume": "Trundin",
+        "comuna": "Vladesti"
+    },
+    {
+        "nume": "Tighina",
+        "comuna": "Voicesti"
+    },
+    {
+        "nume": "Voiceştii din Vale",
+        "simplu": "Voicestii din Vale",
+        "comuna": "Voicesti"
+    },
+    {
+        "nume": "Valea Măceşului",
+        "simplu": "Valea Macesului",
+        "comuna": "Voineasa"
+    },
+    {
+        "nume": "Voineşiţa",
+        "simplu": "Voinesita",
+        "comuna": "Voineasa"
+    },
+    {
+        "nume": "Butanu",
+        "comuna": "Zatreni"
+    },
+    {
+        "nume": "Ciorteşti",
+        "simplu": "Ciortesti",
+        "comuna": "Zatreni"
+    },
+    {
+        "nume": "Contea",
+        "comuna": "Zatreni"
+    },
+    {
+        "nume": "Dealu Glămeia",
+        "simplu": "Dealu Glameia",
+        "comuna": "Zatreni"
+    },
+    {
+        "nume": "Dealu Văleni",
+        "simplu": "Dealu Valeni",
+        "comuna": "Zatreni"
+    },
+    {
+        "nume": "Făureşti",
+        "simplu": "Fauresti",
+        "comuna": "Zatreni"
+    },
+    {
+        "nume": "Găneşti",
+        "simplu": "Ganesti",
+        "comuna": "Zatreni"
+    },
+    {
+        "nume": "Lăcusteni",
+        "simplu": "Lacusteni",
+        "comuna": "Zatreni"
+    },
+    {
+        "nume": "Lăcustenii de Jos",
+        "simplu": "Lacustenii de Jos",
+        "comuna": "Zatreni"
+    },
+    {
+        "nume": "Lăcustenii de Sus",
+        "simplu": "Lacustenii de Sus",
+        "comuna": "Zatreni"
+    },
+    {
+        "nume": "Mecea",
+        "comuna": "Zatreni"
+    },
+    {
+        "nume": "Mănicea",
+        "simplu": "Manicea",
+        "comuna": "Zatreni"
+    },
+    {
+        "nume": "Olteţu",
+        "simplu": "Oltetu",
+        "comuna": "Zatreni"
+    },
+    {
+        "nume": "Stanomiru",
+        "comuna": "Zatreni"
+    },
+    {
+        "nume": "Săşcioara",
+        "simplu": "Sascioara",
+        "comuna": "Zatreni"
+    },
+    {
+        "nume": "Valea Văleni",
+        "simplu": "Valea Valeni",
+        "comuna": "Zatreni"
+    },
+    {
+        "nume": "Văleni",
+        "simplu": "Valeni",
+        "comuna": "Zatreni"
+    },
+    {
+        "nume": "Zătrenii de Sus",
+        "simplu": "Zatrenii de Sus",
+        "comuna": "Zatreni"
+    }
+]

@@ -1,0 +1,570 @@
+[
+    {
+        "nume": "Babadag"
+    },
+    {
+        "nume": "Baia"
+    },
+    {
+        "nume": "Beidaud"
+    },
+    {
+        "nume": "C.a. Rosetti"
+    },
+    {
+        "nume": "Carcaliu"
+    },
+    {
+        "nume": "Casimcea"
+    },
+    {
+        "nume": "Ceamurlia de Jos"
+    },
+    {
+        "nume": "Ceatalchioi"
+    },
+    {
+        "nume": "Cerna"
+    },
+    {
+        "nume": "Chilia Veche"
+    },
+    {
+        "nume": "Ciucurova"
+    },
+    {
+        "nume": "Crişan",
+        "simplu": "Crisan"
+    },
+    {
+        "nume": "Dorobanţu",
+        "simplu": "Dorobantu"
+    },
+    {
+        "nume": "Dăeni",
+        "simplu": "Daeni"
+    },
+    {
+        "nume": "Frecăţei",
+        "simplu": "Frecatei"
+    },
+    {
+        "nume": "Greci"
+    },
+    {
+        "nume": "Grindu"
+    },
+    {
+        "nume": "Hamcearca"
+    },
+    {
+        "nume": "Horia"
+    },
+    {
+        "nume": "I.c.brătianu",
+        "simplu": "I.c.bratianu"
+    },
+    {
+        "nume": "Isaccea"
+    },
+    {
+        "nume": "Izvoarele"
+    },
+    {
+        "nume": "Jijila"
+    },
+    {
+        "nume": "Jurilovca"
+    },
+    {
+        "nume": "Luncaviţa",
+        "simplu": "Luncavita"
+    },
+    {
+        "nume": "Mahmudia"
+    },
+    {
+        "nume": "Maliuc"
+    },
+    {
+        "nume": "Mihai Bravu"
+    },
+    {
+        "nume": "Mihail Kogălniceanu",
+        "simplu": "Mihail Kogalniceanu"
+    },
+    {
+        "nume": "Murighiol"
+    },
+    {
+        "nume": "Măcin",
+        "simplu": "Macin"
+    },
+    {
+        "nume": "Nalbant"
+    },
+    {
+        "nume": "Niculiţel",
+        "simplu": "Niculitel"
+    },
+    {
+        "nume": "Nufăru",
+        "simplu": "Nufaru"
+    },
+    {
+        "nume": "Ostrov"
+    },
+    {
+        "nume": "Pardina"
+    },
+    {
+        "nume": "Peceneaga"
+    },
+    {
+        "nume": "Sarichioi"
+    },
+    {
+        "nume": "Sfântu Gheorghe",
+        "simplu": "Sfantu Gheorghe"
+    },
+    {
+        "nume": "Slava Cercheză",
+        "simplu": "Slava Cercheza"
+    },
+    {
+        "nume": "Smârdan",
+        "simplu": "Smardan"
+    },
+    {
+        "nume": "Somova"
+    },
+    {
+        "nume": "Stejaru"
+    },
+    {
+        "nume": "Sulina"
+    },
+    {
+        "nume": "Topolog"
+    },
+    {
+        "nume": "Tulcea"
+    },
+    {
+        "nume": "Turcoaia"
+    },
+    {
+        "nume": "Valea Nucarilor"
+    },
+    {
+        "nume": "Văcăreni",
+        "simplu": "Vacareni"
+    },
+    {
+        "nume": "Camena",
+        "comuna": "Baia"
+    },
+    {
+        "nume": "Caugagia",
+        "comuna": "Baia"
+    },
+    {
+        "nume": "Ceamurlia de Sus",
+        "comuna": "Baia"
+    },
+    {
+        "nume": "Panduru",
+        "comuna": "Baia"
+    },
+    {
+        "nume": "Neatârnarea",
+        "simplu": "Neatarnarea",
+        "comuna": "Beidaud"
+    },
+    {
+        "nume": "Sarighiol de Deal",
+        "comuna": "Beidaud"
+    },
+    {
+        "nume": "Cardon",
+        "comuna": "C.A. Rosetti"
+    },
+    {
+        "nume": "Letea",
+        "comuna": "C.A. Rosetti"
+    },
+    {
+        "nume": "Periprava",
+        "comuna": "C.A. Rosetti"
+    },
+    {
+        "nume": "Sfiştofca",
+        "simplu": "Sfistofca",
+        "comuna": "C.A. Rosetti"
+    },
+    {
+        "nume": "Cişmeaua Nouă",
+        "simplu": "Cismeaua Noua",
+        "comuna": "Casimcea"
+    },
+    {
+        "nume": "Corugea",
+        "comuna": "Casimcea"
+    },
+    {
+        "nume": "Haidar",
+        "comuna": "Casimcea"
+    },
+    {
+        "nume": "Rahman",
+        "comuna": "Casimcea"
+    },
+    {
+        "nume": "Războieni",
+        "simplu": "Razboieni",
+        "comuna": "Casimcea"
+    },
+    {
+        "nume": "Stânca",
+        "simplu": "Stanca",
+        "comuna": "Casimcea"
+    },
+    {
+        "nume": "Lunca",
+        "comuna": "Ceamurlia De Jos"
+    },
+    {
+        "nume": "Plauru",
+        "comuna": "Ceatalchioi"
+    },
+    {
+        "nume": "Pătlăgeanca",
+        "simplu": "Patlageanca",
+        "comuna": "Ceatalchioi"
+    },
+    {
+        "nume": "Sălceni",
+        "simplu": "Salceni",
+        "comuna": "Ceatalchioi"
+    },
+    {
+        "nume": "General Praporgescu",
+        "comuna": "Cerna"
+    },
+    {
+        "nume": "Mircea Vodă",
+        "simplu": "Mircea Voda",
+        "comuna": "Cerna"
+    },
+    {
+        "nume": "Traian",
+        "comuna": "Cerna"
+    },
+    {
+        "nume": "Câşliţa",
+        "simplu": "Caslita",
+        "comuna": "Chilia Veche"
+    },
+    {
+        "nume": "Ostrovu Tătaru",
+        "simplu": "Ostrovu Tataru",
+        "comuna": "Chilia Veche"
+    },
+    {
+        "nume": "Tatanir",
+        "comuna": "Chilia Veche"
+    },
+    {
+        "nume": "Atmagea",
+        "comuna": "Ciucurova"
+    },
+    {
+        "nume": "Fântâna Mare",
+        "simplu": "Fantana Mare",
+        "comuna": "Ciucurova"
+    },
+    {
+        "nume": "Caraorman",
+        "comuna": "Crisan"
+    },
+    {
+        "nume": "Mila 23",
+        "comuna": "Crisan"
+    },
+    {
+        "nume": "Ardealu",
+        "comuna": "Dorobantu"
+    },
+    {
+        "nume": "Cârjelari",
+        "simplu": "Carjelari",
+        "comuna": "Dorobantu"
+    },
+    {
+        "nume": "Fântâna Oilor",
+        "simplu": "Fantana Oilor",
+        "comuna": "Dorobantu"
+    },
+    {
+        "nume": "Meşteru",
+        "simplu": "Mesteru",
+        "comuna": "Dorobantu"
+    },
+    {
+        "nume": "Cataloi",
+        "comuna": "Frecatei"
+    },
+    {
+        "nume": "Poşta",
+        "simplu": "Posta",
+        "comuna": "Frecatei"
+    },
+    {
+        "nume": "Teliţa",
+        "simplu": "Telita",
+        "comuna": "Frecatei"
+    },
+    {
+        "nume": "Balabancea",
+        "comuna": "Hamcearca"
+    },
+    {
+        "nume": "Căprioara",
+        "simplu": "Caprioara",
+        "comuna": "Hamcearca"
+    },
+    {
+        "nume": "Nifon",
+        "comuna": "Hamcearca"
+    },
+    {
+        "nume": "Cloşca",
+        "simplu": "Closca",
+        "comuna": "Horia"
+    },
+    {
+        "nume": "Floreşti",
+        "simplu": "Floresti",
+        "comuna": "Horia"
+    },
+    {
+        "nume": "Revărsarea",
+        "simplu": "Revarsarea",
+        "comuna": "Isaccea"
+    },
+    {
+        "nume": "Tichileşti",
+        "simplu": "Tichilesti",
+        "comuna": "Isaccea"
+    },
+    {
+        "nume": "Alba",
+        "comuna": "Izvoarele"
+    },
+    {
+        "nume": "Iulia",
+        "comuna": "Izvoarele"
+    },
+    {
+        "nume": "Valea Teilor",
+        "comuna": "Izvoarele"
+    },
+    {
+        "nume": "Garvăn",
+        "simplu": "Garvan",
+        "comuna": "Jijila"
+    },
+    {
+        "nume": "Sălcioara",
+        "simplu": "Salcioara",
+        "comuna": "Jurilovca"
+    },
+    {
+        "nume": "Vişina",
+        "simplu": "Visina",
+        "comuna": "Jurilovca"
+    },
+    {
+        "nume": "Rachelu",
+        "comuna": "Luncavita"
+    },
+    {
+        "nume": "Beştepe",
+        "simplu": "Bestepe",
+        "comuna": "Mahmudia"
+    },
+    {
+        "nume": "Băltenii de Jos",
+        "simplu": "Baltenii de Jos",
+        "comuna": "Mahmudia"
+    },
+    {
+        "nume": "Băltenii de Sus",
+        "simplu": "Baltenii de Sus",
+        "comuna": "Mahmudia"
+    },
+    {
+        "nume": "Gorgova",
+        "comuna": "Maliuc"
+    },
+    {
+        "nume": "Ilganii de Sus",
+        "comuna": "Maliuc"
+    },
+    {
+        "nume": "Partizani",
+        "comuna": "Maliuc"
+    },
+    {
+        "nume": "Vulturu",
+        "comuna": "Maliuc"
+    },
+    {
+        "nume": "Satu Nou",
+        "comuna": "Mihai Bravu"
+    },
+    {
+        "nume": "Turda",
+        "comuna": "Mihai Bravu"
+    },
+    {
+        "nume": "Lăstuni",
+        "simplu": "Lastuni",
+        "comuna": "Mihail Kogalniceanu"
+    },
+    {
+        "nume": "Rândunica",
+        "simplu": "Randunica",
+        "comuna": "Mihail Kogalniceanu"
+    },
+    {
+        "nume": "Colina",
+        "comuna": "Murighiol"
+    },
+    {
+        "nume": "Dunavăţu de Jos",
+        "simplu": "Dunavatu de Jos",
+        "comuna": "Murighiol"
+    },
+    {
+        "nume": "Dunavăţu de Sus",
+        "simplu": "Dunavatu de Sus",
+        "comuna": "Murighiol"
+    },
+    {
+        "nume": "Plopul",
+        "comuna": "Murighiol"
+    },
+    {
+        "nume": "Sarinasuf",
+        "comuna": "Murighiol"
+    },
+    {
+        "nume": "Uzlina",
+        "comuna": "Murighiol"
+    },
+    {
+        "nume": "Nicolae Bălcescu",
+        "simplu": "Nicolae Balcescu",
+        "comuna": "Nalbant"
+    },
+    {
+        "nume": "Trestenic",
+        "comuna": "Nalbant"
+    },
+    {
+        "nume": "Ilganii de Jos",
+        "comuna": "Nufaru"
+    },
+    {
+        "nume": "Malcoci",
+        "comuna": "Nufaru"
+    },
+    {
+        "nume": "Victoria",
+        "comuna": "Nufaru"
+    },
+    {
+        "nume": "Piatra",
+        "comuna": "Ostrov"
+    },
+    {
+        "nume": "Enisala",
+        "comuna": "Sarichioi"
+    },
+    {
+        "nume": "Sabangia",
+        "comuna": "Sarichioi"
+    },
+    {
+        "nume": "Visterna",
+        "comuna": "Sarichioi"
+    },
+    {
+        "nume": "Zebil",
+        "comuna": "Sarichioi"
+    },
+    {
+        "nume": "Slava Rusă",
+        "simplu": "Slava Rusa",
+        "comuna": "Slava Cercheza"
+    },
+    {
+        "nume": "Mineri",
+        "comuna": "Somova"
+    },
+    {
+        "nume": "Parcheş",
+        "simplu": "Parches",
+        "comuna": "Somova"
+    },
+    {
+        "nume": "Mina Altân Tepe",
+        "simplu": "Mina Altan Tepe",
+        "comuna": "Stejaru"
+    },
+    {
+        "nume": "Vasile Alecsandri",
+        "comuna": "Stejaru"
+    },
+    {
+        "nume": "Calfa",
+        "comuna": "Topolog"
+    },
+    {
+        "nume": "Cerbu",
+        "comuna": "Topolog"
+    },
+    {
+        "nume": "Făgăraşu Nou",
+        "simplu": "Fagarasu Nou",
+        "comuna": "Topolog"
+    },
+    {
+        "nume": "Luminiţa",
+        "simplu": "Luminita",
+        "comuna": "Topolog"
+    },
+    {
+        "nume": "Măgurele",
+        "simplu": "Magurele",
+        "comuna": "Topolog"
+    },
+    {
+        "nume": "Sâmbăta Nouă",
+        "simplu": "Sambata Noua",
+        "comuna": "Topolog"
+    },
+    {
+        "nume": "Tudor Vladimirescu",
+        "comuna": "Tulcea"
+    },
+    {
+        "nume": "Agighiol",
+        "comuna": "Valea Nucarilor"
+    },
+    {
+        "nume": "Iazurile",
+        "comuna": "Valea Nucarilor"
+    }
+]

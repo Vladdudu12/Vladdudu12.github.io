@@ -1,0 +1,1230 @@
+[
+    {
+        "nume": "Almaş",
+        "simplu": "Almas"
+    },
+    {
+        "nume": "Apateu"
+    },
+    {
+        "nume": "Arad"
+    },
+    {
+        "nume": "Archiş",
+        "simplu": "Archis"
+    },
+    {
+        "nume": "Bata"
+    },
+    {
+        "nume": "Beliu"
+    },
+    {
+        "nume": "Birchiş",
+        "simplu": "Birchis"
+    },
+    {
+        "nume": "Bocsig"
+    },
+    {
+        "nume": "Brazii"
+    },
+    {
+        "nume": "Buteni"
+    },
+    {
+        "nume": "Bârsa",
+        "simplu": "Barsa"
+    },
+    {
+        "nume": "Bârzava",
+        "simplu": "Barzava"
+    },
+    {
+        "nume": "Cermei"
+    },
+    {
+        "nume": "Chisindia"
+    },
+    {
+        "nume": "Chişineu-Criş",
+        "simplu": "Chisineu-Cris"
+    },
+    {
+        "nume": "Conop"
+    },
+    {
+        "nume": "Covăsinţ",
+        "simplu": "Covasint"
+    },
+    {
+        "nume": "Craiva"
+    },
+    {
+        "nume": "Curtici"
+    },
+    {
+        "nume": "Cărand",
+        "simplu": "Carand"
+    },
+    {
+        "nume": "Dezna"
+    },
+    {
+        "nume": "Dieci"
+    },
+    {
+        "nume": "Dorgoş",
+        "simplu": "Dorgos"
+    },
+    {
+        "nume": "Felnac"
+    },
+    {
+        "nume": "Ghioroc"
+    },
+    {
+        "nume": "Grăniceri",
+        "simplu": "Graniceri"
+    },
+    {
+        "nume": "Gurahonţ",
+        "simplu": "Gurahont"
+    },
+    {
+        "nume": "Hălmagiu",
+        "simplu": "Halmagiu"
+    },
+    {
+        "nume": "Hălmăgel",
+        "simplu": "Halmagel"
+    },
+    {
+        "nume": "Hăşmaş",
+        "simplu": "Hasmas"
+    },
+    {
+        "nume": "Igneşti",
+        "simplu": "Ignesti"
+    },
+    {
+        "nume": "Ineu"
+    },
+    {
+        "nume": "Iratoşu",
+        "simplu": "Iratosu"
+    },
+    {
+        "nume": "Lipova"
+    },
+    {
+        "nume": "Livada"
+    },
+    {
+        "nume": "Macea"
+    },
+    {
+        "nume": "Mişca",
+        "simplu": "Misca"
+    },
+    {
+        "nume": "Moneasa"
+    },
+    {
+        "nume": "Nădlac",
+        "simplu": "Nadlac"
+    },
+    {
+        "nume": "Olari"
+    },
+    {
+        "nume": "Pecica"
+    },
+    {
+        "nume": "Peregu Mare"
+    },
+    {
+        "nume": "Petriş",
+        "simplu": "Petris"
+    },
+    {
+        "nume": "Pilu"
+    },
+    {
+        "nume": "Pleşcuţa",
+        "simplu": "Plescuta"
+    },
+    {
+        "nume": "Pâncota",
+        "simplu": "Pancota"
+    },
+    {
+        "nume": "Păuliş",
+        "simplu": "Paulis"
+    },
+    {
+        "nume": "Sebiş",
+        "simplu": "Sebis"
+    },
+    {
+        "nume": "Secusigiu"
+    },
+    {
+        "nume": "Seleuş",
+        "simplu": "Seleus"
+    },
+    {
+        "nume": "Semlac"
+    },
+    {
+        "nume": "Sintea Mare"
+    },
+    {
+        "nume": "Socodor"
+    },
+    {
+        "nume": "Sântana",
+        "simplu": "Santana"
+    },
+    {
+        "nume": "Săvârşin",
+        "simplu": "Savarsin"
+    },
+    {
+        "nume": "Tauţ",
+        "simplu": "Taut"
+    },
+    {
+        "nume": "Târnova",
+        "simplu": "Tarnova"
+    },
+    {
+        "nume": "Vinga"
+    },
+    {
+        "nume": "Vladimirescu"
+    },
+    {
+        "nume": "Vârfurile",
+        "simplu": "Varfurile"
+    },
+    {
+        "nume": "Vărădia de Mureş",
+        "simplu": "Varadia de Mures"
+    },
+    {
+        "nume": "Zerind"
+    },
+    {
+        "nume": "Zimandu Nou"
+    },
+    {
+        "nume": "Zăbrani",
+        "simplu": "Zabrani"
+    },
+    {
+        "nume": "Zărand",
+        "simplu": "Zarand"
+    },
+    {
+        "nume": "Şagu",
+        "simplu": "Sagu"
+    },
+    {
+        "nume": "Şeitin",
+        "simplu": "Seitin"
+    },
+    {
+        "nume": "Şepreuş",
+        "simplu": "Sepreus"
+    },
+    {
+        "nume": "Şicula",
+        "simplu": "Sicula"
+    },
+    {
+        "nume": "Şilindia",
+        "simplu": "Silindia"
+    },
+    {
+        "nume": "Şimand",
+        "simplu": "Simand"
+    },
+    {
+        "nume": "Şiria",
+        "simplu": "Siria"
+    },
+    {
+        "nume": "Şiştarovăţ",
+        "simplu": "Sistarovat"
+    },
+    {
+        "nume": "Şofronea",
+        "simplu": "Sofronea"
+    },
+    {
+        "nume": "Cil",
+        "comuna": "Almas"
+    },
+    {
+        "nume": "Joia Mare",
+        "comuna": "Almas"
+    },
+    {
+        "nume": "Rădeşti",
+        "simplu": "Radesti",
+        "comuna": "Almas"
+    },
+    {
+        "nume": "Berechiu",
+        "comuna": "Apateu"
+    },
+    {
+        "nume": "Moţiori",
+        "simplu": "Motiori",
+        "comuna": "Apateu"
+    },
+    {
+        "nume": "Bârzeşti",
+        "simplu": "Barzesti",
+        "comuna": "Archis"
+    },
+    {
+        "nume": "Groşeni",
+        "simplu": "Groseni",
+        "comuna": "Archis"
+    },
+    {
+        "nume": "Nermiş",
+        "simplu": "Nermis",
+        "comuna": "Archis"
+    },
+    {
+        "nume": "Aldeşti",
+        "simplu": "Aldesti",
+        "comuna": "Barsa"
+    },
+    {
+        "nume": "Hodiş",
+        "simplu": "Hodis",
+        "comuna": "Barsa"
+    },
+    {
+        "nume": "Voivodeni",
+        "comuna": "Barsa"
+    },
+    {
+        "nume": "Bătuţa",
+        "simplu": "Batuta",
+        "comuna": "Barzava"
+    },
+    {
+        "nume": "Căpruţa",
+        "simplu": "Capruta",
+        "comuna": "Barzava"
+    },
+    {
+        "nume": "Dumbrăviţa",
+        "simplu": "Dumbravita",
+        "comuna": "Barzava"
+    },
+    {
+        "nume": "Groşii Noi",
+        "simplu": "Grosii Noi",
+        "comuna": "Barzava"
+    },
+    {
+        "nume": "Lalaşinţ",
+        "simplu": "Lalasint",
+        "comuna": "Barzava"
+    },
+    {
+        "nume": "Monoroştia",
+        "simplu": "Monorostia",
+        "comuna": "Barzava"
+    },
+    {
+        "nume": "Slatina de Mureş",
+        "simplu": "Slatina de Mures",
+        "comuna": "Barzava"
+    },
+    {
+        "nume": "Bacău de Mijloc",
+        "simplu": "Bacau de Mijloc",
+        "comuna": "Bata"
+    },
+    {
+        "nume": "Bulci",
+        "comuna": "Bata"
+    },
+    {
+        "nume": "Ţela",
+        "simplu": "Tela",
+        "comuna": "Bata"
+    },
+    {
+        "nume": "Beneşti",
+        "simplu": "Benesti",
+        "comuna": "Beliu"
+    },
+    {
+        "nume": "Bochia",
+        "comuna": "Beliu"
+    },
+    {
+        "nume": "Secaci",
+        "comuna": "Beliu"
+    },
+    {
+        "nume": "Tăgădău",
+        "simplu": "Tagadau",
+        "comuna": "Beliu"
+    },
+    {
+        "nume": "Vasile Goldiş",
+        "simplu": "Vasile Goldis",
+        "comuna": "Beliu"
+    },
+    {
+        "nume": "Căpălnaş",
+        "simplu": "Capalnas",
+        "comuna": "Birchis"
+    },
+    {
+        "nume": "Ostrov",
+        "comuna": "Birchis"
+    },
+    {
+        "nume": "Virismort",
+        "comuna": "Birchis"
+    },
+    {
+        "nume": "Mânerău",
+        "simplu": "Manerau",
+        "comuna": "Bocsig"
+    },
+    {
+        "nume": "Răpsig",
+        "simplu": "Rapsig",
+        "comuna": "Bocsig"
+    },
+    {
+        "nume": "Buceava-Şoimuş",
+        "simplu": "Buceava-Soimus",
+        "comuna": "Brazii"
+    },
+    {
+        "nume": "Iacobini",
+        "comuna": "Brazii"
+    },
+    {
+        "nume": "Mădrigeşti",
+        "simplu": "Madrigesti",
+        "comuna": "Brazii"
+    },
+    {
+        "nume": "Secaş",
+        "simplu": "Secas",
+        "comuna": "Brazii"
+    },
+    {
+        "nume": "Berindia",
+        "comuna": "Buteni"
+    },
+    {
+        "nume": "Cuied",
+        "comuna": "Buteni"
+    },
+    {
+        "nume": "Păulian",
+        "simplu": "Paulian",
+        "comuna": "Buteni"
+    },
+    {
+        "nume": "Seliştea",
+        "simplu": "Selistea",
+        "comuna": "Carand"
+    },
+    {
+        "nume": "Avram Iancu",
+        "comuna": "Cermei"
+    },
+    {
+        "nume": "Şomoşcheş",
+        "simplu": "Somosches",
+        "comuna": "Cermei"
+    },
+    {
+        "nume": "Păiuşeni",
+        "simplu": "Paiuseni",
+        "comuna": "Chisindia"
+    },
+    {
+        "nume": "Văsoaia",
+        "simplu": "Vasoaia",
+        "comuna": "Chisindia"
+    },
+    {
+        "nume": "Nadab",
+        "comuna": "Chisineu-Cris"
+    },
+    {
+        "nume": "Belotinţ",
+        "simplu": "Belotint",
+        "comuna": "Conop"
+    },
+    {
+        "nume": "Chelmac",
+        "comuna": "Conop"
+    },
+    {
+        "nume": "Milova",
+        "comuna": "Conop"
+    },
+    {
+        "nume": "Odvoş",
+        "simplu": "Odvos",
+        "comuna": "Conop"
+    },
+    {
+        "nume": "Chişlaca",
+        "simplu": "Chislaca",
+        "comuna": "Craiva"
+    },
+    {
+        "nume": "Ciunteşti",
+        "simplu": "Ciuntesti",
+        "comuna": "Craiva"
+    },
+    {
+        "nume": "Coroi",
+        "comuna": "Craiva"
+    },
+    {
+        "nume": "Mărăuş",
+        "simplu": "Maraus",
+        "comuna": "Craiva"
+    },
+    {
+        "nume": "Rogoz de Beliu",
+        "comuna": "Craiva"
+    },
+    {
+        "nume": "Stoineşti",
+        "simplu": "Stoinesti",
+        "comuna": "Craiva"
+    },
+    {
+        "nume": "Susag",
+        "comuna": "Craiva"
+    },
+    {
+        "nume": "Tălmaci",
+        "simplu": "Talmaci",
+        "comuna": "Craiva"
+    },
+    {
+        "nume": "Şiad",
+        "simplu": "Siad",
+        "comuna": "Craiva"
+    },
+    {
+        "nume": "Dorobanţi",
+        "simplu": "Dorobanti",
+        "comuna": "Curtici"
+    },
+    {
+        "nume": "Buhani",
+        "comuna": "Dezna"
+    },
+    {
+        "nume": "Laz",
+        "comuna": "Dezna"
+    },
+    {
+        "nume": "Neagra",
+        "comuna": "Dezna"
+    },
+    {
+        "nume": "Slatina de Criş",
+        "simplu": "Slatina de Cris",
+        "comuna": "Dezna"
+    },
+    {
+        "nume": "Cociuba",
+        "comuna": "Dieci"
+    },
+    {
+        "nume": "Crocna",
+        "comuna": "Dieci"
+    },
+    {
+        "nume": "Revetiş",
+        "simplu": "Revetis",
+        "comuna": "Dieci"
+    },
+    {
+        "nume": "Roşia",
+        "simplu": "Rosia",
+        "comuna": "Dieci"
+    },
+    {
+        "nume": "Bruznic",
+        "comuna": "Dorgos"
+    },
+    {
+        "nume": "Pătârş",
+        "simplu": "Patars",
+        "comuna": "Dorgos"
+    },
+    {
+        "nume": "Ususău",
+        "simplu": "Ususau",
+        "comuna": "Dorgos"
+    },
+    {
+        "nume": "Zăbalţ",
+        "simplu": "Zabalt",
+        "comuna": "Dorgos"
+    },
+    {
+        "nume": "Aluniş",
+        "simplu": "Alunis",
+        "comuna": "Fantinele"
+    },
+    {
+        "nume": "Frumuşeni",
+        "simplu": "Frumuseni",
+        "comuna": "Fantinele"
+    },
+    {
+        "nume": "Fântânele",
+        "simplu": "Fantanele",
+        "comuna": "Fantinele"
+    },
+    {
+        "nume": "Tisa Nouă",
+        "simplu": "Tisa Noua",
+        "comuna": "Fantinele"
+    },
+    {
+        "nume": "Bodrogu Nou",
+        "comuna": "Felnac"
+    },
+    {
+        "nume": "Călugăreni",
+        "simplu": "Calugareni",
+        "comuna": "Felnac"
+    },
+    {
+        "nume": "Zădăreni",
+        "simplu": "Zadareni",
+        "comuna": "Felnac"
+    },
+    {
+        "nume": "Cuvin",
+        "comuna": "Ghioroc"
+    },
+    {
+        "nume": "Miniş",
+        "simplu": "Minis",
+        "comuna": "Ghioroc"
+    },
+    {
+        "nume": "Şiclău",
+        "simplu": "Siclau",
+        "comuna": "Graniceri"
+    },
+    {
+        "nume": "Bonţeşti",
+        "simplu": "Bontesti",
+        "comuna": "Gurahont"
+    },
+    {
+        "nume": "Dulcele",
+        "comuna": "Gurahont"
+    },
+    {
+        "nume": "Feniş",
+        "simplu": "Fenis",
+        "comuna": "Gurahont"
+    },
+    {
+        "nume": "Honţişor",
+        "simplu": "Hontisor",
+        "comuna": "Gurahont"
+    },
+    {
+        "nume": "Iosaş",
+        "simplu": "Iosas",
+        "comuna": "Gurahont"
+    },
+    {
+        "nume": "Musteşti",
+        "simplu": "Mustesti",
+        "comuna": "Gurahont"
+    },
+    {
+        "nume": "Pescari",
+        "comuna": "Gurahont"
+    },
+    {
+        "nume": "Valea Mare",
+        "comuna": "Gurahont"
+    },
+    {
+        "nume": "Zimbru",
+        "comuna": "Gurahont"
+    },
+    {
+        "nume": "Luncşoara",
+        "simplu": "Luncsoara",
+        "comuna": "Halmagel"
+    },
+    {
+        "nume": "Sârbi",
+        "simplu": "Sarbi",
+        "comuna": "Halmagel"
+    },
+    {
+        "nume": "Târnăviţa",
+        "simplu": "Tarnavita",
+        "comuna": "Halmagel"
+    },
+    {
+        "nume": "Ţoheşti",
+        "simplu": "Tohesti",
+        "comuna": "Halmagel"
+    },
+    {
+        "nume": "Bodeşti",
+        "simplu": "Bodesti",
+        "comuna": "Halmagiu"
+    },
+    {
+        "nume": "Brusturi",
+        "comuna": "Halmagiu"
+    },
+    {
+        "nume": "Băneşti",
+        "simplu": "Banesti",
+        "comuna": "Halmagiu"
+    },
+    {
+        "nume": "Cristeşti",
+        "simplu": "Cristesti",
+        "comuna": "Halmagiu"
+    },
+    {
+        "nume": "Ioneşti",
+        "simplu": "Ionesti",
+        "comuna": "Halmagiu"
+    },
+    {
+        "nume": "Leasa",
+        "comuna": "Halmagiu"
+    },
+    {
+        "nume": "Leştioara",
+        "simplu": "Lestioara",
+        "comuna": "Halmagiu"
+    },
+    {
+        "nume": "Poienari",
+        "comuna": "Halmagiu"
+    },
+    {
+        "nume": "Tisa",
+        "comuna": "Halmagiu"
+    },
+    {
+        "nume": "Ţărmure",
+        "simplu": "Tarmure",
+        "comuna": "Halmagiu"
+    },
+    {
+        "nume": "Agrişu Mic",
+        "simplu": "Agrisu Mic",
+        "comuna": "Hasmas"
+    },
+    {
+        "nume": "Botfei",
+        "comuna": "Hasmas"
+    },
+    {
+        "nume": "Clit",
+        "comuna": "Hasmas"
+    },
+    {
+        "nume": "Comăneşti",
+        "simplu": "Comanesti",
+        "comuna": "Hasmas"
+    },
+    {
+        "nume": "Urvişu de Beliu",
+        "simplu": "Urvisu de Beliu",
+        "comuna": "Hasmas"
+    },
+    {
+        "nume": "Minead",
+        "comuna": "Ignesti"
+    },
+    {
+        "nume": "Nădălbeşti",
+        "simplu": "Nadalbesti",
+        "comuna": "Ignesti"
+    },
+    {
+        "nume": "Susani",
+        "comuna": "Ignesti"
+    },
+    {
+        "nume": "Mocrea",
+        "comuna": "Ineu"
+    },
+    {
+        "nume": "Variaşu Mare",
+        "simplu": "Variasu Mare",
+        "comuna": "Iratosu"
+    },
+    {
+        "nume": "Variaşu Mic",
+        "simplu": "Variasu Mic",
+        "comuna": "Iratosu"
+    },
+    {
+        "nume": "Radna",
+        "comuna": "Lipova"
+    },
+    {
+        "nume": "Şoimoş",
+        "simplu": "Soimos",
+        "comuna": "Lipova"
+    },
+    {
+        "nume": "Sânleani",
+        "simplu": "Sanleani",
+        "comuna": "Livada"
+    },
+    {
+        "nume": "Sânmartin",
+        "simplu": "Sanmartin",
+        "comuna": "Macea"
+    },
+    {
+        "nume": "Satu Nou",
+        "comuna": "Misca"
+    },
+    {
+        "nume": "Vânători",
+        "simplu": "Vanatori",
+        "comuna": "Misca"
+    },
+    {
+        "nume": "Zerindu Mic",
+        "comuna": "Misca"
+    },
+    {
+        "nume": "Rănuşa",
+        "simplu": "Ranusa",
+        "comuna": "Moneasa"
+    },
+    {
+        "nume": "Sintea Mică",
+        "simplu": "Sintea Mica",
+        "comuna": "Olari"
+    },
+    {
+        "nume": "Măderat",
+        "simplu": "Maderat",
+        "comuna": "Pancota"
+    },
+    {
+        "nume": "Baraţca",
+        "simplu": "Baratca",
+        "comuna": "Paulis"
+    },
+    {
+        "nume": "Cladova",
+        "comuna": "Paulis"
+    },
+    {
+        "nume": "Sâmbăteni",
+        "simplu": "Sambateni",
+        "comuna": "Paulis"
+    },
+    {
+        "nume": "Bodrogu Vechi",
+        "comuna": "Pecica"
+    },
+    {
+        "nume": "Sederhat",
+        "comuna": "Pecica"
+    },
+    {
+        "nume": "Turnu",
+        "comuna": "Pecica"
+    },
+    {
+        "nume": "Peregu Mic",
+        "comuna": "Peregu Mare"
+    },
+    {
+        "nume": "Corbeşti",
+        "simplu": "Corbesti",
+        "comuna": "Petris"
+    },
+    {
+        "nume": "Ilteu",
+        "comuna": "Petris"
+    },
+    {
+        "nume": "Obârşia",
+        "simplu": "Obarsia",
+        "comuna": "Petris"
+    },
+    {
+        "nume": "Roşia Nouă",
+        "simplu": "Rosia Noua",
+        "comuna": "Petris"
+    },
+    {
+        "nume": "Selişte",
+        "simplu": "Seliste",
+        "comuna": "Petris"
+    },
+    {
+        "nume": "Vărşand",
+        "simplu": "Varsand",
+        "comuna": "Pilu"
+    },
+    {
+        "nume": "Aciuţa",
+        "simplu": "Aciuta",
+        "comuna": "Plescuta"
+    },
+    {
+        "nume": "Budeşti",
+        "simplu": "Budesti",
+        "comuna": "Plescuta"
+    },
+    {
+        "nume": "Dumbrava",
+        "comuna": "Plescuta"
+    },
+    {
+        "nume": "Gura Văii",
+        "simplu": "Gura Vaii",
+        "comuna": "Plescuta"
+    },
+    {
+        "nume": "Rostoci",
+        "comuna": "Plescuta"
+    },
+    {
+        "nume": "Tălagiu",
+        "simplu": "Talagiu",
+        "comuna": "Plescuta"
+    },
+    {
+        "nume": "Cruceni",
+        "comuna": "Sagu"
+    },
+    {
+        "nume": "Firiteaz",
+        "comuna": "Sagu"
+    },
+    {
+        "nume": "Fiscut",
+        "comuna": "Sagu"
+    },
+    {
+        "nume": "Hunedoara Timişană",
+        "simplu": "Hunedoara Timisana",
+        "comuna": "Sagu"
+    },
+    {
+        "nume": "Caporal Alexa",
+        "comuna": "Santana"
+    },
+    {
+        "nume": "Cuiaş",
+        "simplu": "Cuias",
+        "comuna": "Savarsin"
+    },
+    {
+        "nume": "Căprioara",
+        "simplu": "Caprioara",
+        "comuna": "Savarsin"
+    },
+    {
+        "nume": "Hălăliş",
+        "simplu": "Halalis",
+        "comuna": "Savarsin"
+    },
+    {
+        "nume": "Pârneşti",
+        "simplu": "Parnesti",
+        "comuna": "Savarsin"
+    },
+    {
+        "nume": "Temeşeşti",
+        "simplu": "Temesesti",
+        "comuna": "Savarsin"
+    },
+    {
+        "nume": "Toc",
+        "comuna": "Savarsin"
+    },
+    {
+        "nume": "Troaş",
+        "simplu": "Troas",
+        "comuna": "Savarsin"
+    },
+    {
+        "nume": "Valea Mare",
+        "comuna": "Savarsin"
+    },
+    {
+        "nume": "Donceni",
+        "comuna": "Sebis"
+    },
+    {
+        "nume": "Prunişor",
+        "simplu": "Prunisor",
+        "comuna": "Sebis"
+    },
+    {
+        "nume": "Sălăjeni",
+        "simplu": "Salajeni",
+        "comuna": "Sebis"
+    },
+    {
+        "nume": "Munar",
+        "comuna": "Secusigiu"
+    },
+    {
+        "nume": "Satu Mare",
+        "comuna": "Secusigiu"
+    },
+    {
+        "nume": "Sânpetru German",
+        "simplu": "Sanpetru German",
+        "comuna": "Secusigiu"
+    },
+    {
+        "nume": "Iermata",
+        "comuna": "Seleus"
+    },
+    {
+        "nume": "Moroda",
+        "comuna": "Seleus"
+    },
+    {
+        "nume": "Chereluş",
+        "simplu": "Cherelus",
+        "comuna": "Sicula"
+    },
+    {
+        "nume": "Gurba",
+        "comuna": "Sicula"
+    },
+    {
+        "nume": "Camna",
+        "comuna": "Silindia"
+    },
+    {
+        "nume": "Iercoşeni",
+        "simplu": "Iercoseni",
+        "comuna": "Silindia"
+    },
+    {
+        "nume": "Luguzău",
+        "simplu": "Luguzau",
+        "comuna": "Silindia"
+    },
+    {
+        "nume": "Satu Mic",
+        "comuna": "Silindia"
+    },
+    {
+        "nume": "Adea",
+        "comuna": "Sintea Mare"
+    },
+    {
+        "nume": "Ţipar",
+        "simplu": "Tipar",
+        "comuna": "Sintea Mare"
+    },
+    {
+        "nume": "Galşa",
+        "simplu": "Galsa",
+        "comuna": "Siria"
+    },
+    {
+        "nume": "Mâsca",
+        "simplu": "Masca",
+        "comuna": "Siria"
+    },
+    {
+        "nume": "Cuveşdia",
+        "simplu": "Cuvesdia",
+        "comuna": "Sistarovat"
+    },
+    {
+        "nume": "Labaşinţ",
+        "simplu": "Labasint",
+        "comuna": "Sistarovat"
+    },
+    {
+        "nume": "Varniţa",
+        "simplu": "Varnita",
+        "comuna": "Sistarovat"
+    },
+    {
+        "nume": "Sânpaul",
+        "simplu": "Sanpaul",
+        "comuna": "Sofronea"
+    },
+    {
+        "nume": "Agrişu Mare",
+        "simplu": "Agrisu Mare",
+        "comuna": "Tarnova"
+    },
+    {
+        "nume": "Arăneag",
+        "simplu": "Araneag",
+        "comuna": "Tarnova"
+    },
+    {
+        "nume": "Chier",
+        "comuna": "Tarnova"
+    },
+    {
+        "nume": "Drauţ",
+        "simplu": "Draut",
+        "comuna": "Tarnova"
+    },
+    {
+        "nume": "Dud",
+        "comuna": "Tarnova"
+    },
+    {
+        "nume": "Minişel",
+        "simplu": "Minisel",
+        "comuna": "Taut"
+    },
+    {
+        "nume": "Minişu de Sus",
+        "simplu": "Minisu de Sus",
+        "comuna": "Taut"
+    },
+    {
+        "nume": "Nadăş",
+        "simplu": "Nadas",
+        "comuna": "Taut"
+    },
+    {
+        "nume": "Baia",
+        "comuna": "Varadia De Mures"
+    },
+    {
+        "nume": "Juliţa",
+        "simplu": "Julita",
+        "comuna": "Varadia De Mures"
+    },
+    {
+        "nume": "Lupeşti",
+        "simplu": "Lupesti",
+        "comuna": "Varadia De Mures"
+    },
+    {
+        "nume": "Nicolae Bălcescu",
+        "simplu": "Nicolae Balcescu",
+        "comuna": "Varadia De Mures"
+    },
+    {
+        "nume": "Stejar",
+        "comuna": "Varadia De Mures"
+    },
+    {
+        "nume": "Avram Iancu",
+        "comuna": "Varfurile"
+    },
+    {
+        "nume": "Groşi",
+        "simplu": "Grosi",
+        "comuna": "Varfurile"
+    },
+    {
+        "nume": "Lazuri",
+        "comuna": "Varfurile"
+    },
+    {
+        "nume": "Mermeşti",
+        "simplu": "Mermesti",
+        "comuna": "Varfurile"
+    },
+    {
+        "nume": "Măgulicea",
+        "simplu": "Magulicea",
+        "comuna": "Varfurile"
+    },
+    {
+        "nume": "Poiana",
+        "comuna": "Varfurile"
+    },
+    {
+        "nume": "Vidra",
+        "comuna": "Varfurile"
+    },
+    {
+        "nume": "Mailat",
+        "comuna": "Vinga"
+    },
+    {
+        "nume": "Mănăştur",
+        "simplu": "Manastur",
+        "comuna": "Vinga"
+    },
+    {
+        "nume": "Cicir",
+        "comuna": "Vladimirescu"
+    },
+    {
+        "nume": "Horia",
+        "comuna": "Vladimirescu"
+    },
+    {
+        "nume": "Mândruloc",
+        "simplu": "Mandruloc",
+        "comuna": "Vladimirescu"
+    },
+    {
+        "nume": "Chesinţ",
+        "simplu": "Chesint",
+        "comuna": "Zabrani"
+    },
+    {
+        "nume": "Neudorf",
+        "comuna": "Zabrani"
+    },
+    {
+        "nume": "Cintei",
+        "comuna": "Zarand"
+    },
+    {
+        "nume": "Iermata Neagră",
+        "simplu": "Iermata Neagra",
+        "comuna": "Zerind"
+    },
+    {
+        "nume": "Andrei Şaguna",
+        "simplu": "Andrei Saguna",
+        "comuna": "Zimandu Nou"
+    },
+    {
+        "nume": "Zimandcuz",
+        "comuna": "Zimandu Nou"
+    }
+]
